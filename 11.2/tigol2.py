@@ -1,0 +1,12 @@
+word_list = list('hello')
+print(word_list)
+temp_str = ''.join(word_list)
+upper_str = temp_str.upper()
+word_list = list(upper_str)
+print(word_list)
+word_list[-1] = '0'
+print(word_list)
+word_list.pop(0)
+print(word_list)
+final_str = ''.join(word_list)
+print(final_str)

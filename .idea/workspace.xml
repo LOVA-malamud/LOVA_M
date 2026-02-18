@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88c38b7-2fe1-4075-930e-22689c725b76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4.2/.upper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2/bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2/f''.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2/match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LOVA_M.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LOVA_M.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/any_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/del/any_list_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/del/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/list q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/list_all_any.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/tigol2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.2/tirgol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.2/.set().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.2/jyf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.2/list 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.2/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.2/polidrom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +39,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python..upper.executor": "Run",
-    "Python.bool.executor": "Run",
-    "Python.f''.executor": "Run",
-    "Python.match.executor": "Run",
-    "Python.q.executor": "Run",
-    "Python.string.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lova/PycharmProjects/LOVA_M"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python..upper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.any_list_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bool.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f''.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jyf.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.list 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_all_any.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polidrom.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tigol2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tirgol.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lova/PycharmProjects/LOVA_M&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -71,5 +85,26 @@
       <updated>1769975267103</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8.2/jyf.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8.2/jyf.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11.2/list_all_any.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
