@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88c38b7-2fe1-4075-930e-22689c725b76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11.2/any_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/del/any_list_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/del/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/list q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/list_all_any.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/tigol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.2/tirgol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.2/.set().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.2/jyf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.2/list 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.2/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.2/polidrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.2/def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.2/def2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.2/def3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.2/def4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,31 +31,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python..upper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.any_list_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bool.executor&quot;: &quot;Run&quot;,
-    &quot;Python.f''.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jyf.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.list 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list q.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_all_any.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polidrom.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tigol2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tirgol.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lova/PycharmProjects/LOVA_M&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python..set() q b.executor": "Run",
+    "Python..set().executor": "Run",
+    "Python..upper.executor": "Run",
+    "Python.any_list_2.executor": "Run",
+    "Python.bool.executor": "Run",
+    "Python.def.executor": "Run",
+    "Python.def2.executor": "Run",
+    "Python.def3.executor": "Run",
+    "Python.def4.executor": "Run",
+    "Python.f''.executor": "Run",
+    "Python.jyf.executor": "Debug",
+    "Python.list 2.executor": "Run",
+    "Python.list q.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.list_all_any.executor": "Run",
+    "Python.match.executor": "Run",
+    "Python.polidrom.executor": "Run",
+    "Python.q.executor": "Run",
+    "Python.set () q2.executor": "Run",
+    "Python.set () q3.executor": "Run",
+    "Python.set() actors.executor": "Run",
+    "Python.set() languages.executor": "Run",
+    "Python.set() q1.executor": "Run",
+    "Python.set() q2.executor": "Run",
+    "Python.string.executor": "Run",
+    "Python.tigol2.executor": "Run",
+    "Python.tirgol.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/lova/PycharmProjects/LOVA_M"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -103,6 +107,11 @@
           <url>file://$PROJECT_DIR$/11.2/list_all_any.py</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.3/python_stubs/-1573780049/builtins.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
