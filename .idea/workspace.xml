@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88c38b7-2fe1-4075-930e-22689c725b76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/25.2/def 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2/def 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2/py_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2/rock_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2/scissors_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.2/def 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/def 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.2/def 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/def 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.2/py_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/py_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
     "Python..set() q b.executor": "Run",
     "Python..set().executor": "Run",
     "Python..upper.executor": "Run",
+    "Python._virtualenv.executor": "Run",
     "Python.any_list_2.executor": "Run",
     "Python.bool.executor": "Run",
     "Python.def 5.executor": "Run",

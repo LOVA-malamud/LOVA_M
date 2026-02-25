@@ -1,14 +1,13 @@
+"""Rock Paper Scissors Pygame Implementation.
 
-############################################# BONUS #############################################
-############################################# BONUS #############################################
-############################################# BONUS #############################################
-############################################# BONUS #############################################
-############################################# BONUS #############################################
-############################################# BONUS #############################################
+A graphical Rock Paper Scissors game using Pygame with animations,
+card-based UI, and keyboard controls.
+"""
 
-import pygame  #  pip install pygame
+import pygame  # pip install pygame
 import random
 import math
+import sys
 
 # -----------------------
 # Config
@@ -34,20 +33,52 @@ KEY_TO_CHOICE = {
 # Animation helpers
 # -----------------------
 def ease_out_back(t: float) -> float:
+    """Easing function for back animation.
+    
+    Args:
+        t: Time value between 0 and 1
+        
+    Returns:
+        Eased value
+    """
     c1 = 1.70158
     c3 = c1 + 1
     return 1 + c3 * (t - 1) ** 3 + c1 * (t - 1) ** 2
 
+
 def clamp01(x: float) -> float:
+    """Clamp value between 0 and 1.
+    
+    Args:
+        x: Value to clamp
+        
+    Returns:
+        Clamped value between 0 and 1
+    """
     return max(0.0, min(1.0, x))
 
 # -----------------------
 # Game logic
 # -----------------------
 def cpu_pick() -> str:
+    """Get random choice for CPU.
+    
+    Returns:
+        Random choice from CHOICES
+    """
     return random.choice(CHOICES)
 
+
 def result(player: str, cpu: str) -> str:
+    """Determine game result.
+    
+    Args:
+        player: Player's choice
+        cpu: CPU's choice
+        
+    Returns:
+        'WIN', 'LOSE', or 'TIE'
+    """
     if player == cpu:
         return "TIE"
     wins = {"rock": "scissors", "paper": "rock", "scissors": "paper"}
@@ -57,6 +88,11 @@ def result(player: str, cpu: str) -> str:
 # Load images
 # -----------------------
 def load_icons():
+    """Load and resize game icons.
+    
+    Returns:
+        Dictionary of loaded and resized icons
+    """
     rock = pygame.image.load("rock_1.png").convert_alpha()
     paper = pygame.image.load("paper_1.png").convert_alpha()
     scissors = pygame.image.load("scissors_1.png").convert_alpha()
@@ -77,17 +113,46 @@ def load_icons():
 # Drawing helpers
 # -----------------------
 def draw_center_text(surf, text, font, color, center):
+    """Draw centered text on surface.
+    
+    Args:
+        surf: Surface to draw on
+        text: Text to render
+        font: Font to use
+        color: Text color
+        center: Center position tuple
+    """
     img = font.render(text, True, color)
     rect = img.get_rect(center=center)
     surf.blit(img, rect)
 
+
 def draw_panel(surface, rect, alpha=255):
+    """Draw a rounded panel.
+    
+    Args:
+        surface: Surface to draw on
+        rect: Panel rectangle
+        alpha: Transparency value
+    """
     panel = pygame.Surface((rect.width, rect.height), pygame.SRCALPHA)
     pygame.draw.rect(panel, (40, 40, 55, alpha), panel.get_rect(), border_radius=18)
     pygame.draw.rect(panel, (90, 90, 110, alpha), panel.get_rect(), width=2, border_radius=18)
     surface.blit(panel, rect.topleft)
 
+
 def draw_card(surface, rect, who_text, choice, icons, font_small, alpha=255):
+    """Draw a game card.
+    
+    Args:
+        surface: Surface to draw on
+        rect: Card rectangle
+        who_text: Label text ('YOU' or 'CPU')
+        choice: Current choice or None
+        icons: Dictionary of icons
+        font_small: Small font for labels
+        alpha: Transparency value
+    """
     draw_panel(surface, rect, alpha=alpha)
 
     # label (YOU / CPU)
@@ -106,6 +171,7 @@ def draw_card(surface, rect, who_text, choice, icons, font_small, alpha=255):
 # Main
 # -----------------------
 def main():
+    """Main game loop and initialization."""
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Rock Paper Scissors (Icons)")
@@ -126,6 +192,7 @@ def main():
     shake_t = 0.0
 
     def start_round(choice):
+        """Start a new game round."""
         nonlocal state, player_choice, cpu_choice, outcome, anim_t, shake_t
         player_choice = choice
         cpu_choice = cpu_pick()
@@ -135,6 +202,7 @@ def main():
         state = "animating"
 
     def reset_round():
+        """Reset the game round."""
         nonlocal state, player_choice, cpu_choice, outcome
         state = "waiting"
         player_choice = None
@@ -214,8 +282,6 @@ def main():
         pygame.display.flip()
 
     pygame.quit()
-    pygame.display.quit()
-    import sys
     sys.exit()
 
 if __name__ == "__main__":
