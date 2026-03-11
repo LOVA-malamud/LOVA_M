@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88c38b7-2fe1-4075-930e-22689c725b76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/11.3/dict() 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.3/dict().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.3/the social bridge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.2/def 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/def 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.2/def 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/def 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.2/py_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.2/py_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,8 @@
     "Python.def2.executor": "Run",
     "Python.def3.executor": "Run",
     "Python.def4.executor": "Run",
+    "Python.dict() 2.executor": "Run",
+    "Python.dict().executor": "Run",
     "Python.f''.executor": "Run",
     "Python.jyf.executor": "Debug",
     "Python.list 2.executor": "Run",
@@ -62,13 +64,15 @@
     "Python.set() q1.executor": "Run",
     "Python.set() q2.executor": "Run",
     "Python.string.executor": "Run",
+    "Python.the social bridge.executor": "Run",
     "Python.tigol2.executor": "Run",
     "Python.tirgol.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/lova/PycharmProjects/LOVA_M/25.2"
+    "last_opened_file_path": "/Users/lova/PycharmProjects/LOVA_M/25.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
