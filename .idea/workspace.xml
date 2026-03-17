@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88c38b7-2fe1-4075-930e-22689c725b76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11.3/dict() 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.3/dict().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.3/the social bridge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.3/LOVA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +34,7 @@
     "Python..set() q b.executor": "Run",
     "Python..set().executor": "Run",
     "Python..upper.executor": "Run",
+    "Python.LOVA.executor": "Run",
     "Python._virtualenv.executor": "Run",
     "Python.any_list_2.executor": "Run",
     "Python.bool.executor": "Run",
