@@ -78,16 +78,13 @@ words_list = ["apple","banana","avocado","blueberry","apricot","corn"]
 
 def group_by_letter(words):
     result = {}
-
     for word in words:
-        first_letter = word[0].lower()
+        first_letter = word[0]
 
         if first_letter in result:
             result[first_letter].append(word)
         else:
             result[first_letter] = [word]
-
-    return result
 
 
 print(group_by_letter(words_list))
