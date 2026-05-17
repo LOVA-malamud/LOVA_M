@@ -1,0 +1,29 @@
+DROP TABLE IF EXISTS employees;
+DROP TABLE IF EXISTS departments;
+CREATE TABLE departments (
+  id        INTEGER PRIMARY KEY,
+  dept_name TEXT    NOT NULL,
+  budget    REAL    NOT NULL
+);
+
+INSERT INTO departments VALUES
+  (1,'Engineering',150000),
+  (2,'Marketing',80000),
+  (3,'Sales',60000),
+  (4,'HR',45000);
+
+  CREATE TABLE employees (
+  id         INTEGER PRIMARY KEY,
+  name       TEXT    NOT NULL,
+  dept_id    INTEGER,
+  salary     REAL    NOT NULL,
+  FOREIGN KEY (dept_id) REFERENCES departments(id)
+);
+
+INSERT INTO employees VALUES
+  (1,'Dana',1,9000),
+  (2,'Omar',2,7200),
+  (3,'Noa',1,6800),
+  (4,'Liam',3,5500),
+  (5,'Rina',NULL,6000),
+  (6,'Kai',2,7000);
