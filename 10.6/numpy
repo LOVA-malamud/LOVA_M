@@ -1,0 +1,13 @@
+import numpy as np
+np.random.seed(42)
+arr = np.random.randint(0, 100, size=(5, 5))
+print(arr)
+print('arg_max', arr.argmax())
+# write code here to print the row + col number?
+# output should be: 
+# row: 2 col: 1
+
+print()
+arr = np.random.randint(0, 100, size=(6, 3))
+print(arr)
+print('arg_max', arr.argmax())
