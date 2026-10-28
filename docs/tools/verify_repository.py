@@ -16,6 +16,9 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[2]
 manifest = json.loads((ROOT / 'docs/migration-map.json').read_text())
+updates_file = ROOT / 'docs/environment/intentional-updates.json'
+updates = {item['path']: item for item in json.loads(updates_file.read_text())} if updates_file.exists() else {}
+documented_updates = []
 missing, altered, syntax, notebook_issues, links = [], [], [], [], []
 python_count = notebook_count = cells = 0
 for entry in manifest:
@@ -23,9 +26,12 @@ for entry in manifest:
     if not path.is_file():
         missing.append(entry['new_path'])
         continue
-    if hashlib.sha256(path.read_bytes()).hexdigest() != entry['sha256_after']:
-        # Finder may update metadata without changing any learning material.
-        if path.name != '.DS_Store':
+    digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    if digest != entry['sha256_after']:
+        update = updates.get(entry['new_path'])
+        if update and update['sha256_reorganization'] == entry['sha256_after'] and update['sha256_after'] == digest:
+            documented_updates.append(entry['new_path'])
+        elif path.name != '.DS_Store':
             altered.append(entry['new_path'])
     if path.suffix == '.py' or (not path.suffix and path.name != '.DS_Store'
                                and path.read_text(errors='replace').lstrip().startswith(('import ', 'from '))):
@@ -53,7 +59,7 @@ for entry in manifest:
             notebook_issues.append([entry['new_path'], str(exc)])
 markdown_files = []
 for base, dirs, files in os.walk(ROOT):
-    dirs[:] = [d for d in dirs if d not in {'.git', '.venv', '.venv-tf', '__pycache__'}]
+    dirs[:] = [d for d in dirs if not d.startswith('.venv') and d not in {'.git', '.local', '.jupyter', '.ruff_cache', '__pycache__'}]
     markdown_files.extend(Path(base) / f for f in files if f.endswith('.md'))
 for path in markdown_files:
     for target in re.findall(r'\[[^\]]*\]\(([^)]+)\)', path.read_text()):
@@ -63,6 +69,7 @@ for path in markdown_files:
         if target and not (path.parent / target).exists():
             links.append([str(path.relative_to(ROOT)), target])
 report = dict(original_files=len(manifest), missing=missing, unexpected_content_changes=altered,
+              documented_configuration_updates=documented_updates,
               python_files=python_count, python_syntax_errors=syntax, notebooks=notebook_count,
               notebook_code_cells=cells, notebook_existing_issues=notebook_issues,
               broken_markdown_links=links)

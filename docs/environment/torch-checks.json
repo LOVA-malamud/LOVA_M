@@ -1,0 +1,53 @@
+{
+  "profile": "torch",
+  "python": "3.12.10",
+  "environment": ".venv-torch",
+  "results": [
+    {
+      "name": "import:torch",
+      "status": "pass",
+      "detail": "2.2.2"
+    },
+    {
+      "name": "import:torchvision",
+      "status": "pass",
+      "detail": "0.17.2"
+    },
+    {
+      "name": "import:numpy",
+      "status": "pass",
+      "detail": "1.26.4"
+    },
+    {
+      "name": "import:sympy",
+      "status": "pass",
+      "detail": "1.13.3"
+    },
+    {
+      "name": "import:ipykernel",
+      "status": "pass",
+      "detail": "7.4.0"
+    },
+    {
+      "name": "import:matplotlib",
+      "status": "pass",
+      "detail": "3.11.2"
+    },
+    {
+      "name": "import:pillow",
+      "status": "pass",
+      "detail": "12.3.0"
+    },
+    {
+      "name": "torch:tensor-cnn-gradient-and-gpu",
+      "status": "pass",
+      "detail": {
+        "version": "2.2.2",
+        "torchvision": "0.17.2",
+        "mps_built": true,
+        "mps_available": true,
+        "gpu_operation": "mps:0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "../.."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv-study/bin/python",
+    "python-envs.workspaceSearchPaths": [
+      "./.venv-study",
+      "./.venv-tensorflow",
+      "./.venv-torch",
+      "./**/.venv"
+    ],
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestArgs": [
+      "tests/environment"
+    ],
+    "python.testing.cwd": "${workspaceFolder}",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "jupyter.notebookFileRoot": "${fileDirname}"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "ms-toolsai.jupyter"
+    ]
+  }
+}

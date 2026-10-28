@@ -91,3 +91,11 @@ htmlcov/
 /04-machine-learning/undated-23.8-kmeans-images/movie_scores.csv
 /03-data-analysis/undated-pandas-churn/Untitled.ipynb
 /datasets/local-only/
+
+# Local smoke reports, kernel runtime files and quality caches
+.local/
+.ruff_cache/
+.jupyter/
+
+# Share only the portable workspace template, never local workspace state
+!docs/vscode/*.code-workspace

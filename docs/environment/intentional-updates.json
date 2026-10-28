@@ -1,0 +1,14 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256_reorganization": "c9453b185092ea4b4d66ae0fb947f31f1ae030cf7b01f2d066800e9544a37d4e",
+    "sha256_after": "a597359873bbf4a86927fc25b5f707f4934b25ddd7000ec425a7f37c927fbfd4",
+    "reason": "הגדרות סביבת לימוד והחרגות נוספות; אין שינוי בקוד לימודי"
+  },
+  {
+    "path": ".vscode/settings.json",
+    "sha256_reorganization": "8b2e1b0dee52c56148a6e9509fd795a00c416e315dccffcb5328e45862477aa8",
+    "sha256_after": "93ec74fb1a952bbb09230dc425f3531f3226d3891d16de1aed718b8cd30301d7",
+    "reason": "הגדרות סביבת לימוד והחרגות נוספות; אין שינוי בקוד לימודי"
+  }
+]

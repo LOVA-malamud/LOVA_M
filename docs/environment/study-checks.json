@@ -1,0 +1,207 @@
+{
+  "profile": "study",
+  "python": "3.12.10",
+  "environment": ".venv-study",
+  "results": [
+    {
+      "name": "import:numpy",
+      "status": "pass",
+      "detail": "2.5.4"
+    },
+    {
+      "name": "import:pandas",
+      "status": "pass",
+      "detail": "3.1.0"
+    },
+    {
+      "name": "import:scipy",
+      "status": "pass",
+      "detail": "1.18.1"
+    },
+    {
+      "name": "import:matplotlib",
+      "status": "pass",
+      "detail": "3.11.2"
+    },
+    {
+      "name": "import:seaborn",
+      "status": "pass",
+      "detail": "0.13.2"
+    },
+    {
+      "name": "import:plotly",
+      "status": "pass",
+      "detail": "6.9.0"
+    },
+    {
+      "name": "import:scikit-learn",
+      "status": "pass",
+      "detail": "1.9.1"
+    },
+    {
+      "name": "import:statsmodels",
+      "status": "pass",
+      "detail": "0.15.0"
+    },
+    {
+      "name": "import:openpyxl",
+      "status": "pass",
+      "detail": "3.1.5"
+    },
+    {
+      "name": "import:jupyterlab",
+      "status": "pass",
+      "detail": "4.6.4"
+    },
+    {
+      "name": "import:notebook",
+      "status": "pass",
+      "detail": "7.6.3"
+    },
+    {
+      "name": "import:ipykernel",
+      "status": "pass",
+      "detail": "7.4.0"
+    },
+    {
+      "name": "import:pillow",
+      "status": "pass",
+      "detail": "12.3.0"
+    },
+    {
+      "name": "import:opencv-python",
+      "status": "pass",
+      "detail": "4.14.0.94"
+    },
+    {
+      "name": "import:imageio",
+      "status": "pass",
+      "detail": "2.38.1"
+    },
+    {
+      "name": "import:fastapi",
+      "status": "pass",
+      "detail": "0.162.0"
+    },
+    {
+      "name": "import:uvicorn",
+      "status": "pass",
+      "detail": "0.54.0"
+    },
+    {
+      "name": "import:requests",
+      "status": "pass",
+      "detail": "2.34.2"
+    },
+    {
+      "name": "import:httpx",
+      "status": "pass",
+      "detail": "0.28.1"
+    },
+    {
+      "name": "import:pydantic",
+      "status": "pass",
+      "detail": "2.14.1"
+    },
+    {
+      "name": "import:python-dotenv",
+      "status": "pass",
+      "detail": "1.2.4"
+    },
+    {
+      "name": "import:sqlalchemy",
+      "status": "pass",
+      "detail": "2.1.6"
+    },
+    {
+      "name": "import:aiosqlite",
+      "status": "pass",
+      "detail": "0.22.1"
+    },
+    {
+      "name": "import:pytest",
+      "status": "pass",
+      "detail": "9.2.0"
+    },
+    {
+      "name": "import:ruff",
+      "status": "pass",
+      "detail": "0.17.3"
+    },
+    {
+      "name": "import:black",
+      "status": "pass",
+      "detail": "26.10.1"
+    },
+    {
+      "name": "import:dmba",
+      "status": "pass",
+      "detail": "0.2.4"
+    },
+    {
+      "name": "import:pygame",
+      "status": "pass",
+      "detail": "2.6.1"
+    },
+    {
+      "name": "import:ipython",
+      "status": "pass",
+      "detail": "9.17.1"
+    },
+    {
+      "name": "numpy_array",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "pandas_frame",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "matplotlib_plot",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "sklearn_model",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "scipy_statistics",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "plotly_figure",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "excel_roundtrip",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "vision_roundtrip",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "fastapi_endpoint",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "http_and_dotenv",
+      "status": "pass",
+      "detail": null
+    },
+    {
+      "name": "sqlite_async",
+      "status": "pass",
+      "detail": null
+    }
+  ]
+}

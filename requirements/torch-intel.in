@@ -1,0 +1,8 @@
+# macOS x86_64 / Python 3.12. Last official Intel Mac wheel pair.
+torch==2.2.2
+torchvision==0.17.2
+numpy==1.26.4
+sympy>=1.12,<1.14
+ipykernel>=6,<8
+matplotlib>=3.9,<4
+pillow>=11,<13
