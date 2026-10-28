@@ -17,6 +17,8 @@
 | [datasets](datasets/) | קטלוג נתונים ומדיניות שמירה |
 | [docs](docs/) | אינדקס, מפת מעבר, תבנית ודוחות אימות |
 
+**כלי העבודה החדשים:** [מעקב אישי](LEARNING_PROGRESS.md) · [אינדקס שיעורים](LESSONS_INDEX.md) · [סביבת Python](PYTHON_ENVIRONMENT.md) · [הוספת שיעור](HOW_TO_ADD_A_LESSON.md) · [VS Code](docs/vscode-guide.md).
+
 **להתחלה:** פתחו את [אינדקס השיעורים והתרגילים](docs/lesson-index.md). למציאת קובץ לפי שמו הישן השתמשו ב־[מפת המעבר](docs/migration-map.csv). [דוח הארגון](docs/reorganization.md) מסביר מה נשמר ומדוע.
 
 אין כרגע חומר מובהק על APIs/Backend, ולכן לא נוצרה תיקייה ריקה. תרגילים נשארים בתוך השיעור; `assignments/` תיווצר כאשר יהיו מטלות מזוהות ונפרדות.
@@ -37,7 +39,7 @@ python3 '01-python-basics/undated-22.2-functions/def.py'
 
 חלק מהקבצים המקוריים ללא סיומת: אפשר להריץ אותם באמצעות `python3 path/to/file`. תרגילים רבים מבקשים קלט מהמשתמש. שמות המקור נשמרו, כולל שגיאות כתיב.
 
-לספריות חיצוניות ולהפעלת מחברות ראו [הוראות הסביבות והתלויות](docs/running.md). SQL מריצים במסד ניסוי נפרד: התרגילים כוללים פקודות `DROP TABLE`. את משחק Pygame מפעילים לפי ה־README שלו.
+סביבת העבודה היומיומית היא `.venv-study`. לספריות חיצוניות ולהפעלת מחברות ראו [סביבות Python והבדיקות](PYTHON_ENVIRONMENT.md) ואת [מדריך VS Code](docs/vscode-guide.md). SQL מריצים במסד ניסוי נפרד: התרגילים כוללים פקודות `DROP TABLE`. את משחק Pygame מפעילים לפי ה־README שלו.
 
 ## הוספת שיעור חדש
 
