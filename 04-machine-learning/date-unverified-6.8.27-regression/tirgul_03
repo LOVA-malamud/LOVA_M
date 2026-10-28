@@ -1,0 +1,32 @@
+import numpy as np
+from sklearn.linear_model import LogisticRegression
+
+# Hours studied
+X = np.array([1, 2, 3, 4, 5, 6, 7, 8]).reshape(-1, 1)
+
+# 0 = failed, 1 = passed
+y = np.array([0, 0, 0, 0, 1, 1, 1, 1])
+
+model = LogisticRegression()
+
+model.fit(X, y)
+
+prediction = model.predict([[6]])
+
+print(prediction)
+
+probability = model.predict_proba([[6]])
+
+print(probability)
+
+probability_1 = model.predict_proba([[6]])[0][1]
+
+threshold = 0.5
+
+if probability_1 >= threshold:
+    prediction = 1
+else:
+    prediction = 0
+
+print("probability:", probability_1)
+print("prediction:", prediction)

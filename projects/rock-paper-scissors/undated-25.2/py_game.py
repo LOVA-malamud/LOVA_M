@@ -4,6 +4,10 @@ A graphical Rock Paper Scissors game using Pygame with animations,
 card-based UI, and keyboard controls.
 """
 
+from pathlib import Path
+
+ASSET_DIR = Path(__file__).resolve().parent
+
 import pygame  # pip install pygame
 import random
 import math
@@ -93,9 +97,9 @@ def load_icons():
     Returns:
         Dictionary of loaded and resized icons
     """
-    rock = pygame.image.load("rock_1.png").convert_alpha()
-    paper = pygame.image.load("paper_1.png").convert_alpha()
-    scissors = pygame.image.load("scissors_1.png").convert_alpha()
+    rock = pygame.image.load(str(ASSET_DIR / "rock_1.png")).convert_alpha()
+    paper = pygame.image.load(str(ASSET_DIR / "paper_1.png")).convert_alpha()
+    scissors = pygame.image.load(str(ASSET_DIR / "scissors_1.png")).convert_alpha()
 
     # Resize to uniform size
     size = 160
