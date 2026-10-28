@@ -1,0 +1,597 @@
+{
+  "python": [
+    {
+      "path": "01-python-basics/undated-18.2-set-operations/set() q1.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-18.2-set-operations/set() languages.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-18.2-set-operations/set() actors.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-18.2-set-operations/set () q2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-18.2-set-operations/set () q3.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "03-data-analysis/undated-10.6-numpy/numpy_1",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "03-data-analysis/undated-10.6-numpy/numpy",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/date-unverified-9.9.27-knn/tirgul_00.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "05-oop/2026-10-28-vehicle-exercise/VehicleExercise.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-15.3-functions-collections/LOVA.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/tirgol.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/list q.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/any_list.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/list_all_any.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/tigol2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/del/list.py",
+      "status": "fail",
+      "exit_code": 1
+    },
+    {
+      "path": "01-python-basics/undated-11.2-lists-any-all/del/any_list_2.py",
+      "status": "fail",
+      "exit_code": 1
+    },
+    {
+      "path": "01-python-basics/undated-4.2-strings-conditions/bool.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-4.2-strings-conditions/string.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-4.2-strings-conditions/f''.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-4.2-strings-conditions/.upper.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-4.2-strings-conditions/match.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-15.2-sets/.set() q b.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-15.2-sets/.set().py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-15.2-sets/set() q2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.3-dictionaries/dict().py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-11.3-dictionaries/dict() 2.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???5.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???4.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???7.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???3.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???2.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???6.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-25.3-function-exercises/???.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/undated-23.8-kmeans-images/tigul",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-25.2-functions-game/def 5.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "projects/bank-simulator/undated-25.2/def 6.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "projects/rock-paper-scissors/undated-25.2/py_game.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-18.3-functions-loops/01_tirgul.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-18.3-functions-loops/tirgul.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/rock.paper.si.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random?.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q6.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q3.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q7.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/luck.number.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q4.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-1.2-random/random.q5.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "experiments/macos-speech/speak.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "04-machine-learning/undated-12.7-r2/R2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-22.2-functions/def2.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-22.2-functions/def.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-22.2-functions/def3.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-22.2-functions/def4.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-22.3-primes/???.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "04-machine-learning/date-unverified-6.8.27-regression/tigul",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/date-unverified-6.8.27-regression/tirgul_02",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/date-unverified-6.8.27-regression/tirgul_03",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-8.3-common-interests/the social bridge.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "05-oop/2026-10-25-point/poing.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-8.2-lists-loops/list.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-8.2-lists-loops/jyf.py",
+      "status": "skipped",
+      "reason": "interactive / GUI / speech / training / personal-output"
+    },
+    {
+      "path": "01-python-basics/undated-8.2-lists-loops/polidrom.py",
+      "status": "pass",
+      "exit_code": 0
+    },
+    {
+      "path": "01-python-basics/undated-8.2-lists-loops/list 2.py",
+      "status": "pass",
+      "exit_code": 0
+    }
+  ],
+  "sql": [
+    {
+      "path": "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1.sql",
+      "status": "fail",
+      "detail": "UNIQUE constraint failed: id_cards.citizen_id"
+    },
+    {
+      "path": "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1_+.sql",
+      "status": "fail",
+      "detail": "UNIQUE constraint failed: medical_files.patient_ref"
+    },
+    {
+      "path": "02-sql-databases/undated-15.4-tables/Exercise.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-15.4-tables/ekom_database_session.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-15.4-tables/exercise_2.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-19.4-query-practice/ Exercise",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-19.4-query-practice/Netflix_Practice_Lab.sql",
+      "status": "fail",
+      "detail": "no such table: netflix_movies"
+    },
+    {
+      "path": "02-sql-databases/undated-19.4-query-practice/ecercise_2",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-19.4-query-practice/exercise_3",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-27.5-restaurant-profit/ Restaurant _Profit_Mystery.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-27.5-restaurant-profit/test.sql",
+      "status": "empty"
+    },
+    {
+      "path": "02-sql-databases/undated-29.4-aggregation/Exercise_01.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-29.4-aggregation/Exercise_02.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-29.4-aggregation/Exercise_03.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-29.4-aggregation/Exercise_04.sql",
+      "status": "fail",
+      "detail": "incomplete input"
+    },
+    {
+      "path": "02-sql-databases/undated-3.5-inner-join/inner_join",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-3.5-inner-join/exercise_01.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-3.5-inner-join/exercise_02.sql",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-6.5-cross-join/Exercise_cross_join",
+      "status": "pass"
+    },
+    {
+      "path": "02-sql-databases/undated-sql-session/ekom_database.session.sql",
+      "status": "empty"
+    }
+  ],
+  "notebooks": [
+    {
+      "path": "experiments/unclassified/Untitled1.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "pass"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "03-data-analysis/undated-pandas-churn/Untitled.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "fail",
+          "detail": "NameError: name 'df' is not defined"
+        },
+        {
+          "cell": 2,
+          "status": "pass"
+        },
+        {
+          "cell": 3,
+          "status": "pass"
+        },
+        {
+          "cell": 4,
+          "status": "pass"
+        },
+        {
+          "cell": 5,
+          "status": "pass"
+        },
+        {
+          "cell": 6,
+          "status": "pass"
+        },
+        {
+          "cell": 7,
+          "status": "pass"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/undated-8.7-regression-mse/Untitled1.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "pass"
+        },
+        {
+          "cell": 2,
+          "status": "fail",
+          "detail": "ModuleNotFoundError: No module named 'mataplotlib'"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "fail",
+          "detail": "ModuleNotFoundError: No module named 'IPython'"
+        },
+        {
+          "cell": 2,
+          "status": "pass"
+        },
+        {
+          "cell": 3,
+          "status": "fail",
+          "detail": "NameError: name 'plt' is not defined"
+        },
+        {
+          "cell": 4,
+          "status": "fail",
+          "detail": "SyntaxError: invalid syntax (Untitled.ipynb:cell4, line 1)"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/undated-8.7-regression-mse/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+      "cells": [],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/undated-8.7-regression-mse/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+      "cells": [],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": ".ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+      "cells": [],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": ".ipynb_checkpoints/Untitled-checkpoint.ipynb",
+      "cells": [],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "fail",
+          "detail": "ModuleNotFoundError: No module named 'IPython'"
+        },
+        {
+          "cell": 2,
+          "status": "fail",
+          "detail": "NameError: name 'plt' is not defined"
+        },
+        {
+          "cell": 3,
+          "status": "fail",
+          "detail": "NameError: name 'plt' is not defined"
+        },
+        {
+          "cell": 4,
+          "status": "fail",
+          "detail": "ModuleNotFoundError: No module named 'dmba'"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    },
+    {
+      "path": "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+      "cells": [
+        {
+          "cell": 1,
+          "status": "fail",
+          "detail": "ModuleNotFoundError: No module named 'IPython'"
+        },
+        {
+          "cell": 2,
+          "status": "pass"
+        },
+        {
+          "cell": 3,
+          "status": "pass"
+        }
+      ],
+      "exit_code": 0,
+      "detail": ""
+    }
+  ]
+}
