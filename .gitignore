@@ -99,3 +99,6 @@ htmlcov/
 
 # Share only the portable workspace template, never local workspace state
 !docs/vscode/*.code-workspace
+
+# Regenerated spaCy homework dependency visualization (may contain user input)
+/07-nlp/exercise_08_visualization.html
