@@ -104,3 +104,7 @@ htmlcov/
 /07-nlp/exercise_08_visualization.html
 
 /07-nlp/2026-11-04-spacy-introduction/homework/exercise_08_visualization.html
+
+# Safe environment templates retained from main
+!.env.sample
+!.env.template

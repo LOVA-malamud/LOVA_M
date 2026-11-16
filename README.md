@@ -53,6 +53,10 @@ python3 05-oop/2026-11-01-light-switch/main.py
 
 התרגיל הזה משתמש רק בספרייה הסטנדרטית. תרגילים אחרים דורשים ספריות, נתונים או קלט: בדוק את ההוראות בתוך השיעור. [מדריך Python](PYTHON_ENVIRONMENT.md) · [מדריך VS Code](docs/vscode-guide.md).
 
+## מאגרי לימוד נוספים
+
+[שיעורי בית](https://github.com/LOVA-malamud/ekom_home_work) · [חומר למבחן ML](https://github.com/LOVA-malamud/machine_learning_exam_b)
+
 ## מה חשוב לדעת על החומר?
 
 - זהו מאגר לימודי: יש פתרונות, טיוטות, קבצים ריקים ותרגילים שעדיין דורשים תיקון. קוד קיים אינו הוכחה להבנה עצמאית.
