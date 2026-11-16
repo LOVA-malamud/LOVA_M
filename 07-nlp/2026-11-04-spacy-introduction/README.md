@@ -1,5 +1,8 @@
 # מבוא ל־NLP ול־spaCy — 04.11.2026
 
+[חזרה לתחום](../README.md) · [דף הבית](../../README.md)
+
+
 ## מה לומדים היום?
 
 **NLP — Natural Language Processing**, או עיבוד שפה טבעית, הוא תחום העוסק בעיבוד טקסט ושפה באמצעות מחשב. בשיעור הראשון מכינים סביבת עבודה, טוענים מודל באנגלית ומחלקים משפט ליחידות טקסט.
@@ -34,7 +37,7 @@ processing
 
 ## סביבת העבודה של השיעור
 
-במחשב נמצאה Conda, ונוצרה סביבה נפרדת בשם `spacy_env`:
+במחשב המקורי תועדה ב־04.11.2026 סביבת Conda נפרדת בשם `spacy_env`:
 
 | רכיב | גרסה |
 |---|---|
@@ -43,11 +46,11 @@ processing
 | ipykernel | 7.4.0 |
 | en_core_web_sm | 3.8.0 |
 
-מיקום ה־Python במחשב זה: `/opt/anaconda3/envs/spacy_env/bin/python`.
+מיקום ה־Python במחשב המקורי (אינו נתיב אוניברסלי): `/opt/anaconda3/envs/spacy_env/bin/python`.
 
 `ipykernel` מאפשר ל־Jupyter Notebook להריץ קוד בסביבה הזו. ה־Kernel הוא תהליך Python שמבצע את התאים במחברת; בחירתו חשובה גם אם בטרמינל מופעלת סביבה אחרת.
 
-הסביבה כבר הוכנה. **אין צורך להתקין שוב כדי להריץ את הדוגמה.** הפקודות הבאות מתעדות את ההקמה, ומיועדות גם לשחזור במחשב שבו הסביבה עדיין אינה קיימת. מריצים משורש הפרויקט:
+הסביבה אינה כלולה ב־GitHub. אם היא כבר קיימת במחשב שלך, אין צורך ליצור אותה שוב. הפקודות הבאות מתעדות את ההקמה, ומיועדות גם לשחזור במחשב שבו הסביבה עדיין אינה קיימת. מריצים משורש הפרויקט:
 
 ```bash
 conda create -n spacy_env python=3.11 pip -y
@@ -67,9 +70,9 @@ conda run -n spacy_env python -m spacy download en_core_web_sm
 
 ## הרצה ב־VS Code
 
-למחברת Jupyter: פתח קובץ `.ipynb`, לחץ **Select Kernel**, ובמידת הצורך **Select Another Kernel → Jupyter Kernel**, ובחר **Python nov-04 (spacy_env)**. אם מוצגת רשימת **Python Environments**, אפשר לבחור `spacy_env` עם Python 3.11.13. הרחבות Python ו־Jupyter כבר מותקנות במחשב.
+למחברת Jupyter: פתח קובץ `.ipynb`, לחץ **Select Kernel**, ובמידת הצורך **Select Another Kernel → Jupyter Kernel**, ובחר **Python nov-04 (spacy_env)**. אם מוצגת רשימת **Python Environments**, אפשר לבחור `spacy_env` עם Python 3.11.13. נדרשות הרחבות Python ו־Jupyter ב־VS Code.
 
-להרצת קובץ Python: פתח את `main.py`, הפעל **Python: Select Interpreter** מחלונית הפקודות (`Cmd+Shift+P`) ובחר `spacy_env`. אם הסביבה עדיין אינה ברשימה, בחר **Enter interpreter path** והזן `/opt/anaconda3/envs/spacy_env/bin/python`.
+להרצת קובץ Python: פתח את `main.py`, הפעל **Python: Select Interpreter** מחלונית הפקודות (`Cmd+Shift+P`) ובחר `spacy_env`. אם הסביבה עדיין אינה ברשימה, בחר **Enter interpreter path** ובחר את הנתיב של הסביבה אצלך. הנתיב `/opt/anaconda3/envs/spacy_env/bin/python` תועד במחשב המקורי בלבד.
 
 לחלופין, בטרמינל של VS Code, משורש הפרויקט, אפשר להריץ ללא שינוי הסביבה הפעילה:
 
@@ -86,9 +89,9 @@ print(sys.executable)
 
 הנתיב צריך להצביע ל־`spacy_env/bin/python`. אם מתקבלת הודעה שהספרייה או המודל אינם מותקנים, בדוק קודם שנבחר ה־Kernel הזה. אחרי החלפת Kernel, הרץ מחדש את התאים מתחילת המחברת.
 
-אפשר גם לפתוח את `LOVA_M-nlp.code-workspace` שבשורש הפרויקט: זו תצורת עבודה מקומית נוספת עם נתיב ברירת מחדל ל־Python של השיעור. אם VS Code זוכר Interpreter קודם, בחר אותו במפורש לפי ההוראות למעלה. בחירת ה־Kernel במחברת נפרדת מבחירת ה־Interpreter.
+במחשב המקורי נשמר `LOVA_M-nlp.code-workspace` בשורש הפרויקט (מקומי בלבד, אינו כלול ב־GitHub): זו תצורת עבודה מקומית נוספת עם נתיב ברירת מחדל ל־Python של השיעור. אם VS Code זוכר Interpreter קודם, בחר אותו במפורש לפי ההוראות למעלה. בחירת ה־Kernel במחברת נפרדת מבחירת ה־Interpreter.
 
-## מה נבדק בפועל?
+## בדיקות היסטוריות — 04.11.2026
 
 - `python -m spacy validate` אישר התאמה בין הספרייה למודל.
 - `python -m pip check` הסתיים ללא תלויות שבורות.
@@ -104,4 +107,8 @@ print(sys.executable)
 - [פקודות הורדה ובדיקת תאימות](https://spacy.io/api/cli)
 - [רישום Kernel לסביבת Python](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)
 
-זהו חומר מבוא בלבד; לא נוספו תרגילים מעבר לדוגמת החלוקה ל־Tokens.
+הקובץ `main.py` מדגים חלוקה ל־Tokens. התרגילים המרחיבים את השיעור מופיעים בהמשך.
+
+## תרגול השיעור
+
+[שמונת תרגילי הבית והבדיקות](homework/README.md) נמצאים בתיקיית `homework` של השיעור.

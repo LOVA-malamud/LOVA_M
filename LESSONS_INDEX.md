@@ -2,6 +2,14 @@
 
 זהו האינדקס הראשי. התאריכים מבוססים על ראיות במקור; אין השלמת שנה לפי ניחוש. מושגי Vehicle מסומנים לפי הנושאים שדיווחת שנלמדים כעת, ולא לפי קוד בקובץ הריק. [מעקב הלמידה](LEARNING_PROGRESS.md) מפריד בין תכולת קוד לבין הבנה אישית.
 
+## שיעורים נוספים שהועלו
+
+| תאריך | שיעור | קבצים |
+|---|---|---|
+| 2026-11-01 | [מתג אור](05-oop/2026-11-01-light-switch/) | מצבים, ירושה ופולימורפיזם |
+| 2026-11-04 | [מבוא ל־spaCy](07-nlp/2026-11-04-spacy-introduction/) | Tokenization והכנת סביבה |
+| 2026-11-04 | [שיעורי בית NLP](07-nlp/2026-11-04-spacy-introduction/homework/) | 8 תרגילים וקובץ בדיקות |
+
 ## חיפוש לפי נושא
 
 | תחום | שיעורים |
@@ -10,7 +18,8 @@
 | `02-sql-databases` | [קשר אחד לאחד](#lesson-l15) · [טבלאות ותנאים](#lesson-l16) · [תרגול שאילתות](#lesson-l17) · [ניתוח רווחים ב־SQL](#lesson-l18) · [צבירה וקיבוץ](#lesson-l19) · [חיבור טבלאות](#lesson-l20) · [מכפלה בין טבלאות](#lesson-l21) · [טיוטת SQL](#lesson-l22) |
 | `03-data-analysis` | [מערכי NumPy](#lesson-l23) · [ניתוח נתונים ב־Pandas](#lesson-l24) |
 | `04-machine-learning` | [רגרסיה ליניארית ופולינומית](#lesson-l25) · [אשכולות לפי צפיפות](#lesson-l26) · [רגרסיה וסיווג](#lesson-l27) · [שכנים קרובים ונרמול](#lesson-l28) · [מדד R²](#lesson-l29) · [אשכולות ותמונות](#lesson-l30) · [רגרסיה ו־MSE](#lesson-l31) |
-| `05-oop` | [מחלקת נקודה](#lesson-l32) · [תרגיל רכב](#lesson-l33) · [צורות ומחלקות מופשטות](#lesson-l39) |
+| `05-oop` | [מחלקת נקודה](#lesson-l32) · [תרגיל רכב](#lesson-l33) · [צורות ומחלקות מופשטות](#lesson-l39) · [מתג אור](05-oop/2026-11-01-light-switch/) |
+| `07-nlp` | [מבוא ותרגילים](07-nlp/README.md) |
 | `06-deep-learning` | [רשת עצבית לרגרסיה](#lesson-l34) |
 | `projects` | [סימולטור בנק](#lesson-l37) · [משחק Pygame](#lesson-l38) |
 | `experiments` | [דיבור ב־macOS](#lesson-l35) · [טיוטות ללא סיווג](#lesson-l36) |
@@ -22,7 +31,8 @@
 | 2026-07-15 | [רגרסיה ליניארית ופולינומית](#lesson-l25) |
 | 2026-10-25 | [מחלקת נקודה](#lesson-l32) |
 | 2026-10-28 | [תרגיל רכב](#lesson-l33) |
-| 2026-11-01 | [צורות ומחלקות מופשטות](#lesson-l39) |
+| 2026-11-01 | [צורות ומחלקות מופשטות](#lesson-l39) · [מתג אור](05-oop/2026-11-01-light-switch/) |
+| 2026-11-04 | [מבוא ותרגילי NLP](07-nlp/2026-11-04-spacy-introduction/) |
 
 ## תאריכי מקור ללא שנה או הדורשים אימות
 
@@ -128,7 +138,7 @@
 **קוד, תרגילים וחומר נלווה:**
 
 - [dict() 2.py](01-python-basics/undated-11.3-dictionaries/dict%28%29%202.py)
-- [dict().py](01-python-basics/undated-11.3-dictionaries/dict%28%29.py) — מקומי בלבד
+- `dict().py` (מקומי בלבד; אינו כלול ב־GitHub) — מקומי בלבד
 
 **ראיה לתרגול:** מילונים וערכים מקוננים.
 
@@ -315,7 +325,7 @@
 
 **קוד, תרגילים וחומר נלווה:**
 
-- [.upper.py](01-python-basics/undated-4.2-strings-conditions/.upper.py) — מקומי בלבד
+- `.upper.py` (מקומי בלבד; אינו כלול ב־GitHub) — מקומי בלבד
 - [bool.py](01-python-basics/undated-4.2-strings-conditions/bool.py)
 - [f''.py](01-python-basics/undated-4.2-strings-conditions/f%27%27.py)
 - [match.py](01-python-basics/undated-4.2-strings-conditions/match.py)
@@ -524,7 +534,7 @@
 
 **קוד, תרגילים וחומר נלווה:**
 
-- [ekom_database.session.sql](02-sql-databases/undated-sql-session/ekom_database.session.sql) — מקומי בלבד
+- `ekom_database.session.sql` (מקומי בלבד; אינו כלול ב־GitHub) — מקומי בלבד
 
 **ראיה לתרגול:** קובץ session ריק.
 
@@ -563,7 +573,7 @@
 
 **קוד, תרגילים וחומר נלווה:**
 
-- [Untitled.ipynb](03-data-analysis/undated-pandas-churn/Untitled.ipynb) — מקומי בלבד
+- `Untitled.ipynb` (מקומי בלבד; אינו כלול ב־GitHub) — מקומי בלבד
 
 **ראיה לתרגול:** מחברת מיון, קיבוץ וניקוי נתונים.
 
@@ -689,7 +699,7 @@
 
 - [bank-full.csv](04-machine-learning/undated-23.8-kmeans-images/bank-full.csv)
 - [dog_image.jpeg](04-machine-learning/undated-23.8-kmeans-images/dog_image.jpeg)
-- [movie_scores.csv](04-machine-learning/undated-23.8-kmeans-images/movie_scores.csv) — מקומי בלבד
+- `movie_scores.csv` (מקומי בלבד; אינו כלול ב־GitHub) — מקומי בלבד
 - [tigul](04-machine-learning/undated-23.8-kmeans-images/tigul)
 
 **ראיה לתרגול:** כימות צבעים בתמונה.

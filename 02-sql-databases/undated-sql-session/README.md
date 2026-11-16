@@ -1,11 +1,14 @@
 # קובץ SQL ריק
 
+[חזרה לתחום](../README.md) · [דף הבית](../../README.md)
+
+
 תאריך: לא ידוע  
 התקדמות: טיוטה ריקה
 
 ## חומר ותרגילים
 
-- [ekom_database.session.sql](ekom_database.session.sql)
+- `ekom_database.session.sql` (מקומי בלבד; אינו כלול ב־GitHub)
 
 שמות הקבצים והתוכן הלימודי המקורי נשמרו. מצב בדיקות ותלויות: [דוח האימות](../../docs/validation.md).
 

@@ -1,6 +1,6 @@
 # מעקב הלמידה האישי שלי
 
-עודכן: 2026-10-29. זהו יומן ללמידה ולא ציון אוטומטי. ניתוח הקבצים מראה מה נמצא במאגר; הוא אינו מגלה מי כתב את הקוד, כמה עזרה ניתנה או מה הובן. לכן לא סומן אף נושא כבוצע באופן עצמאי.
+יומן מקורי: 2026-10-29; ניווט ותוספת חומר עודכנו ב־16.11.2026. זהו יומן ללמידה ולא ציון אוטומטי. ניתוח הקבצים מראה מה נמצא במאגר; הוא אינו מגלה מי כתב את הקוד, כמה עזרה ניתנה או מה הובן. לכן לא סומן אף נושא כבוצע באופן עצמאי.
 
 ## מצבי התקדמות
 
@@ -21,7 +21,7 @@
 |---|---|---|---|---|---|---|---|
 | אקראיות / Randomness | שנה לא ידועה: 1.2 | [luck.number.py](01-python-basics/undated-1.2-random/luck.number.py)<br>[random.q2.py](01-python-basics/undated-1.2-random/random.q2.py) | random, randint, choice, sample, input | משחקי מסוף ויצירת מספרים | להסביר את ההבדל בין choice ל־sample | כתיבת משחק קצר ללא העתקה | התקדמות אינה ידועה |
 | פעולות על רשימות / List Operations | שנה לא ידועה: 11.2 | [any_list.py](01-python-basics/undated-11.2-lists-any-all/any_list.py)<br>[any_list_2.py](01-python-basics/undated-11.2-lists-any-all/del/any_list_2.py) | any, all, join, count, index | תרגילים על ציונים ואוספים | שני קובצי del נכשלים: numbes ואינדקס tuple | לתקן ולהסביר כל שגיאה בעצמך | התקדמות אינה ידועה |
-| מילונים / Dictionaries | שנה לא ידועה: 11.3 | [dict() 2.py](01-python-basics/undated-11.3-dictionaries/dict%28%29%202.py)<br>[dict().py](01-python-basics/undated-11.3-dictionaries/dict%28%29.py) | dict, keys, nested dictionaries | מילונים וערכים מקוננים | גישה למפתח חסר; תרגיל אישי מוחרג | get ו־dictionary comprehensions | התקדמות אינה ידועה |
+| מילונים / Dictionaries | שנה לא ידועה: 11.3 | [dict() 2.py](01-python-basics/undated-11.3-dictionaries/dict%28%29%202.py)<br>`dict().py` (מקומי בלבד; אינו כלול ב־GitHub) | dict, keys, nested dictionaries | מילונים וערכים מקוננים | גישה למפתח חסר; תרגיל אישי מוחרג | get ו־dictionary comprehensions | התקדמות אינה ידועה |
 | קבוצות / Sets | שנה לא ידועה: 15.2 | [.set() q b.py](01-python-basics/undated-15.2-sets/.set%28%29%20q%20b.py)<br>[.set().py](01-python-basics/undated-15.2-sets/.set%28%29.py) | set, discard, pop, sorted | הסרת כפילויות וספירת מופעים | ההבדל בין set ל־list; סדר לא מובטח | פעולות בין קבוצות | התקדמות אינה ידועה |
 | פונקציות ואוספים / Functions and Collections | שנה לא ידועה: 15.3 | [LOVA.py](01-python-basics/undated-15.3-functions-collections/LOVA.py) | def, dict, list | עיבוד מילים באמצעות פונקציות | לבדוק קלט ריק וערכים חוזרים | כתיבת בדיקות לפונקציות טהורות | התקדמות אינה ידועה |
 | פעולות בין קבוצות / Set Operations | שנה לא ידועה: 18.2 | [set () q2.py](01-python-basics/undated-18.2-set-operations/set%20%28%29%20q2.py)<br>[set () q3.py](01-python-basics/undated-18.2-set-operations/set%20%28%29%20q3.py) | intersection, union, difference | תרגילי קבוצות עם כמה תנאים | תרגום ניסוח מילולי לפעולת קבוצה | השוואה בין פתרון עם לולאות לפתרון קבוצות | התקדמות אינה ידועה |
@@ -30,7 +30,7 @@
 | מספרים ראשוניים / Prime Numbers | שנה לא ידועה: 22.3 | [???.py](01-python-basics/undated-22.3-primes/%3F%3F%3F.py) | bool, return, for | פונקציה לבדיקת ראשוניות | ערכי קצה: מספר שלילי, 0 ו־1 | שיפור טווח הבדיקה והסברו | התקדמות אינה ידועה |
 | פונקציות ומשחק מסוף / Functions and CLI Game | לא ידוע (25.2 ללא שנה) | [def 5.py](01-python-basics/undated-25.2-functions-game/def%205.py) | def, input, random | משחק אבן נייר ומספריים במסוף | תלות בפונקציות קלט ותרחישי קצה | בדיקת פונקציות המשחק בלי קלט ידני | התקדמות אינה ידועה |
 | תרגילי פונקציות / Function Exercises | שנה לא ידועה: 25.3 | [???.py](01-python-basics/undated-25.3-function-exercises/%3F%3F%3F.py)<br>[???2.py](01-python-basics/undated-25.3-function-exercises/%3F%3F%3F2.py) | strings, dict, validation, exceptions | המרת שמות, שכיחויות, דוא״ל ושברים | תקינות קלט והבחנה בין תשובה נכונה להסבר | תרגול מחדש ללא פתרון פתוח | התקדמות אינה ידועה |
-| מחרוזות ותנאים / Strings and Conditions | שנה לא ידועה: 4.2 | [.upper.py](01-python-basics/undated-4.2-strings-conditions/.upper.py)<br>[bool.py](01-python-basics/undated-4.2-strings-conditions/bool.py) | str, bool, f-string, match | מחרוזות, קלט ותנאים | טיפוסים והמרות קלט; פרטים אישיים נשארו מקומיים | בדיקת קלט וטיפול בשגיאות | התקדמות אינה ידועה |
+| מחרוזות ותנאים / Strings and Conditions | שנה לא ידועה: 4.2 | `.upper.py` (מקומי בלבד; אינו כלול ב־GitHub)<br>[bool.py](01-python-basics/undated-4.2-strings-conditions/bool.py) | str, bool, f-string, match | מחרוזות, קלט ותנאים | טיפוסים והמרות קלט; פרטים אישיים נשארו מקומיים | בדיקת קלט וטיפול בשגיאות | התקדמות אינה ידועה |
 | רשימות ולולאות / Lists and Loops | שנה לא ידועה: 8.2 | [jyf.py](01-python-basics/undated-8.2-lists-loops/jyf.py)<br>[list 2.py](01-python-basics/undated-8.2-lists-loops/list%202.py) | list, slice, for, while | חיתוך רשימה, פלינדרום ומשחק Hangman | שינוי רשימה בזמן מעבר עליה | list comprehensions | התקדמות אינה ידועה |
 | תחומי עניין משותפים / Common Interests | שנה לא ידועה: 8.3 | [the social bridge.py](01-python-basics/undated-8.3-common-interests/the%20social%20bridge.py) | intersection, tuple, sorted | פונקציה שמחזירה חיתוך ומספר פריטים | להסביר ערך החזרה וטיפוסו | בדיקת מקרי קצה | התקדמות אינה ידועה |
 | קשר אחד לאחד / One-to-One Relationship | שנה לא ידועה: 10.5 | [one_to_one_1:1.sql](02-sql-databases/undated-10.5-one-to-one/one_to_one_1%3A1.sql)<br>[one_to_one_1:1_+.sql](02-sql-databases/undated-10.5-one-to-one/one_to_one_1%3A1_%2B.sql) | UNIQUE, FOREIGN KEY, LEFT JOIN | טבלאות עם מפתח זר ייחודי | INSERT כפול נכשל על UNIQUE; להבין מדוע | מחיקה וקשרים עם foreign_keys מופעל | התקדמות אינה ידועה |
@@ -40,9 +40,9 @@
 | צבירה וקיבוץ / Aggregation and Grouping | שנה לא ידועה: 29.4 | [Exercise_01.sql](02-sql-databases/undated-29.4-aggregation/Exercise_01.sql)<br>[Exercise_02.sql](02-sql-databases/undated-29.4-aggregation/Exercise_02.sql) | SUM, AVG, GROUP BY, HAVING | ניתוח מכירות ותרגילי קיבוץ | Exercise_04 מסתיים ב־SELECT לא גמור | הבדל בין WHERE ל־HAVING | התקדמות אינה ידועה |
 | חיבור טבלאות / Inner Join | שנה לא ידועה: 3.5 | [exercise_01.sql](02-sql-databases/undated-3.5-inner-join/exercise_01.sql)<br>[exercise_02.sql](02-sql-databases/undated-3.5-inner-join/exercise_02.sql) | INNER JOIN, foreign key | חיבור עובדים למחלקות ונהגים למכוניות | איזה שורות נעלמות ב־INNER JOIN | LEFT JOIN והשוואת תוצאות | התקדמות אינה ידועה |
 | מכפלה בין טבלאות / Cross Join | שנה לא ידועה: 6.5 | [Exercise_cross_join](02-sql-databases/undated-6.5-cross-join/Exercise_cross_join) | CROSS JOIN, COUNT, GROUP BY | צירופי מאפים ותוספות וחישובי משמרות | לחשב מראש את מספר השורות במכפלה | להבחין בין CROSS JOIN לחיבור עם ON | התקדמות אינה ידועה |
-| טיוטת SQL / SQL Session Draft | לא ידוע | [ekom_database.session.sql](02-sql-databases/undated-sql-session/ekom_database.session.sql) | אין תוכן | קובץ session ריק | אין עדות לתרגול בקובץ | לשמור שאילתות עם שם נושא | התקדמות אינה ידועה |
+| טיוטת SQL / SQL Session Draft | לא ידוע | `ekom_database.session.sql` (מקומי בלבד; אינו כלול ב־GitHub) | אין תוכן | קובץ session ריק | אין עדות לתרגול בקובץ | לשמור שאילתות עם שם נושא | התקדמות אינה ידועה |
 | מערכי NumPy / NumPy Arrays | שנה לא ידועה: 10.6 | [numpy](03-data-analysis/undated-10.6-numpy/numpy)<br>[numpy_1](03-data-analysis/undated-10.6-numpy/numpy_1) | ndarray, shape, random | יצירת מערכים מספריים | shape, צירים והבדל בין list ל־ndarray | broadcasting ופעולות וקטוריות | התקדמות אינה ידועה |
-| ניתוח נתונים ב־Pandas / Pandas Data Analysis | לא ידוע | [Untitled.ipynb](03-data-analysis/undated-pandas-churn/Untitled.ipynb) | DataFrame, sort_values, groupby, dropna, fillna | מחברת מיון, קיבוץ וניקוי נתונים | התא הראשון משתמש ב־df לפני הגדרתו; נתונים מקומיים בלבד | Restart & Run All בסדר תאים נכון | התקדמות אינה ידועה |
+| ניתוח נתונים ב־Pandas / Pandas Data Analysis | לא ידוע | `Untitled.ipynb` (מקומי בלבד; אינו כלול ב־GitHub) | DataFrame, sort_values, groupby, dropna, fillna | מחברת מיון, קיבוץ וניקוי נתונים | התא הראשון משתמש ב־df לפני הגדרתו; נתונים מקומיים בלבד | Restart & Run All בסדר תאים נכון | התקדמות אינה ידועה |
 | רגרסיה ליניארית ופולינומית / Linear and Polynomial Regression | 2026-07-15 | [linear4_15_07_2026.ipynb](04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb)<br>[poly1_15_07_2026.ipynb](04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb) | LinearRegression, PolynomialFeatures, train_test_split | קוד ומחברות התאמת עקומות | overfitting והפרדה בין אימון לבדיקה | cross-validation | התקדמות אינה ידועה |
 | אשכולות לפי צפיפות / DBSCAN | דורש אימות: 2.9.27 | [tirgul_DBSCAN.py](04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py) | eps, min_samples, noise | הקוד טוען CSV; האלגוריתם מיובא אך טרם מופעל | אין עדיין fit ל־DBSCAN בקוד | להפעיל DBSCAN ולהסביר נקודות רעש | התקדמות אינה ידועה |
 | רגרסיה וסיווג / Regression and Classification | דורש אימות: 6.8.27 | [tigul](04-machine-learning/date-unverified-6.8.27-regression/tigul)<br>[tirgul_02](04-machine-learning/date-unverified-6.8.27-regression/tirgul_02) | LinearRegression, LogisticRegression, predict_proba | שלושה תרגילי רגרסיה וסיווג | מדוע LogisticRegression הוא מודל סיווג | מדדי סיווג ובחירת סף | התקדמות אינה ידועה |
@@ -86,3 +86,10 @@
 | למילוי אחרי תרגול | — | — | — | — | — | התקדמות אינה ידועה |
 
 נושאי ANN ו־CNN מופיעים בדיווח שלך. במאגר יש מימוש ANN; לא נמצא עדיין מימוש CNN. Backend/API מסומן כהמשך קרוב, ולא כשליטה שנרכשה בעקבות התקנת ספריות.
+
+## חומר נוסף שנמצא בענף — 16.11.2026
+
+| חומר | מה נמצא בקוד | מצב אישי |
+|---|---|---|
+| [מתג אור](05-oop/2026-11-01-light-switch/) | מימוש של שלושה מצבים והדגמת המעברים | הבנה עצמאית לא נבדקה |
+| [NLP ו־spaCy](07-nlp/2026-11-04-spacy-introduction/) | דוגמת Tokens, שמונה תרגילי בית וקובץ בדיקות | הבנה עצמאית לא נבדקה |
