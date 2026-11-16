@@ -1,0 +1,7 @@
+# Python 3.12; everyday learning, data, notebooks, APIs and existing Pygame project.
+-r data-science.in
+-r notebooks.in
+-r vision.in
+-r backend.in
+-r quality.in
+pygame==2.6.1

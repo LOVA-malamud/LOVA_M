@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "LOVA_M: Python file (study)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "python": "${workspaceFolder}/.venv-study/bin/python",
+      "console": "integratedTerminal",
+      "cwd": "${fileDirname}"
+    }
+  ]
+}

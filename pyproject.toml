@@ -1,0 +1,16 @@
+[tool.pytest.ini_options]
+testpaths = ["tests/environment"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.ruff]
+# Original learning exercises are intentionally outside the quality-tool scope.
+include = ["tools/**/*.py", "tests/environment/**/*.py"]
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.black]
+target-version = ["py312"]
+include = '(tools/.*\.py|tests/environment/.*\.py)$'

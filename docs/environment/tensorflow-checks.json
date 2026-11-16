@@ -1,0 +1,57 @@
+{
+  "profile": "tensorflow",
+  "python": "3.12.10",
+  "environment": ".venv-tensorflow",
+  "results": [
+    {
+      "name": "import:tensorflow",
+      "status": "pass",
+      "detail": "2.16.2"
+    },
+    {
+      "name": "import:keras",
+      "status": "pass",
+      "detail": "3.15.1"
+    },
+    {
+      "name": "import:numpy",
+      "status": "pass",
+      "detail": "1.26.4"
+    },
+    {
+      "name": "import:scipy",
+      "status": "pass",
+      "detail": "1.17.1"
+    },
+    {
+      "name": "import:scikit-learn",
+      "status": "pass",
+      "detail": "1.9.1"
+    },
+    {
+      "name": "import:ipykernel",
+      "status": "pass",
+      "detail": "7.4.0"
+    },
+    {
+      "name": "import:matplotlib",
+      "status": "pass",
+      "detail": "3.11.2"
+    },
+    {
+      "name": "import:pillow",
+      "status": "pass",
+      "detail": "12.3.0"
+    },
+    {
+      "name": "tensorflow:tensor-cnn-gradient-and-gpu",
+      "status": "pass",
+      "detail": {
+        "version": "2.16.2",
+        "keras": "3.15.1",
+        "gpu_devices": [],
+        "gpu_operation": "not available"
+      }
+    }
+  ]
+}

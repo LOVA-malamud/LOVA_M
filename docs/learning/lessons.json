@@ -1,0 +1,840 @@
+[
+  {
+    "id": "L01",
+    "folder": "01-python-basics/undated-1.2-random",
+    "date": null,
+    "date_note": "שנה לא ידועה: 1.2",
+    "topic_he": "אקראיות",
+    "topic_en": "Randomness",
+    "concepts": [
+      "random",
+      "randint",
+      "choice",
+      "sample",
+      "input"
+    ],
+    "files": [
+      "01-python-basics/undated-1.2-random/luck.number.py",
+      "01-python-basics/undated-1.2-random/random.q2.py",
+      "01-python-basics/undated-1.2-random/random.q3.py",
+      "01-python-basics/undated-1.2-random/random.q4.py",
+      "01-python-basics/undated-1.2-random/random.q5.py",
+      "01-python-basics/undated-1.2-random/random.q6.py",
+      "01-python-basics/undated-1.2-random/random.q7.py",
+      "01-python-basics/undated-1.2-random/random?.py",
+      "01-python-basics/undated-1.2-random/rock.paper.si.py"
+    ],
+    "evidence": "משחקי מסוף ויצירת מספרים",
+    "gap": "להסביר את ההבדל בין choice ל־sample",
+    "next_step": "כתיבת משחק קצר ללא העתקה",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L02",
+    "folder": "01-python-basics/undated-11.2-lists-any-all",
+    "date": null,
+    "date_note": "שנה לא ידועה: 11.2",
+    "topic_he": "פעולות על רשימות",
+    "topic_en": "List Operations",
+    "concepts": [
+      "any",
+      "all",
+      "join",
+      "count",
+      "index"
+    ],
+    "files": [
+      "01-python-basics/undated-11.2-lists-any-all/any_list.py",
+      "01-python-basics/undated-11.2-lists-any-all/del/any_list_2.py",
+      "01-python-basics/undated-11.2-lists-any-all/del/list.py",
+      "01-python-basics/undated-11.2-lists-any-all/list q.py",
+      "01-python-basics/undated-11.2-lists-any-all/list_all_any.py",
+      "01-python-basics/undated-11.2-lists-any-all/tigol2.py",
+      "01-python-basics/undated-11.2-lists-any-all/tirgol.py"
+    ],
+    "evidence": "תרגילים על ציונים ואוספים",
+    "gap": "שני קובצי del נכשלים: numbes ואינדקס tuple",
+    "next_step": "לתקן ולהסביר כל שגיאה בעצמך",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L03",
+    "folder": "01-python-basics/undated-11.3-dictionaries",
+    "date": null,
+    "date_note": "שנה לא ידועה: 11.3",
+    "topic_he": "מילונים",
+    "topic_en": "Dictionaries",
+    "concepts": [
+      "dict",
+      "keys",
+      "nested dictionaries"
+    ],
+    "files": [
+      "01-python-basics/undated-11.3-dictionaries/dict() 2.py",
+      "01-python-basics/undated-11.3-dictionaries/dict().py"
+    ],
+    "evidence": "מילונים וערכים מקוננים",
+    "gap": "גישה למפתח חסר; תרגיל אישי מוחרג",
+    "next_step": "get ו־dictionary comprehensions",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L04",
+    "folder": "01-python-basics/undated-15.2-sets",
+    "date": null,
+    "date_note": "שנה לא ידועה: 15.2",
+    "topic_he": "קבוצות",
+    "topic_en": "Sets",
+    "concepts": [
+      "set",
+      "discard",
+      "pop",
+      "sorted"
+    ],
+    "files": [
+      "01-python-basics/undated-15.2-sets/.set() q b.py",
+      "01-python-basics/undated-15.2-sets/.set().py",
+      "01-python-basics/undated-15.2-sets/set() q2.py"
+    ],
+    "evidence": "הסרת כפילויות וספירת מופעים",
+    "gap": "ההבדל בין set ל־list; סדר לא מובטח",
+    "next_step": "פעולות בין קבוצות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L05",
+    "folder": "01-python-basics/undated-15.3-functions-collections",
+    "date": null,
+    "date_note": "שנה לא ידועה: 15.3",
+    "topic_he": "פונקציות ואוספים",
+    "topic_en": "Functions and Collections",
+    "concepts": [
+      "def",
+      "dict",
+      "list"
+    ],
+    "files": [
+      "01-python-basics/undated-15.3-functions-collections/LOVA.py"
+    ],
+    "evidence": "עיבוד מילים באמצעות פונקציות",
+    "gap": "לבדוק קלט ריק וערכים חוזרים",
+    "next_step": "כתיבת בדיקות לפונקציות טהורות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L06",
+    "folder": "01-python-basics/undated-18.2-set-operations",
+    "date": null,
+    "date_note": "שנה לא ידועה: 18.2",
+    "topic_he": "פעולות בין קבוצות",
+    "topic_en": "Set Operations",
+    "concepts": [
+      "intersection",
+      "union",
+      "difference"
+    ],
+    "files": [
+      "01-python-basics/undated-18.2-set-operations/set () q2.py",
+      "01-python-basics/undated-18.2-set-operations/set () q3.py",
+      "01-python-basics/undated-18.2-set-operations/set() actors.py",
+      "01-python-basics/undated-18.2-set-operations/set() languages.py",
+      "01-python-basics/undated-18.2-set-operations/set() q1.py"
+    ],
+    "evidence": "תרגילי קבוצות עם כמה תנאים",
+    "gap": "תרגום ניסוח מילולי לפעולת קבוצה",
+    "next_step": "השוואה בין פתרון עם לולאות לפתרון קבוצות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L07",
+    "folder": "01-python-basics/undated-18.3-functions-loops",
+    "date": null,
+    "date_note": "שנה לא ידועה: 18.3.",
+    "topic_he": "פונקציות ולולאות מקוננות",
+    "topic_en": "Functions and Nested Loops",
+    "concepts": [
+      "for",
+      "range",
+      "def"
+    ],
+    "files": [
+      "01-python-basics/undated-18.3-functions-loops/01_tirgul.py",
+      "01-python-basics/undated-18.3-functions-loops/tirgul.py"
+    ],
+    "evidence": "בדיקת מיון והדפסת תבניות",
+    "gap": "מעקב ידני אחר לולאה פנימית וחיצונית",
+    "next_step": "מורכבות בסיסית",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L08",
+    "folder": "01-python-basics/undated-22.2-functions",
+    "date": null,
+    "date_note": "שנה לא ידועה: 22.2",
+    "topic_he": "פונקציות",
+    "topic_en": "Functions",
+    "concepts": [
+      "def",
+      "return",
+      "parameters",
+      "type hints"
+    ],
+    "files": [
+      "01-python-basics/undated-22.2-functions/def.py",
+      "01-python-basics/undated-22.2-functions/def2.py",
+      "01-python-basics/undated-22.2-functions/def3.py",
+      "01-python-basics/undated-22.2-functions/def4.py"
+    ],
+    "evidence": "פונקציות על ציונים ומספרים",
+    "gap": "הבדל בין print ל־return ותחום משתנים",
+    "next_step": "פירוק תוכנית לפונקציות קטנות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L09",
+    "folder": "01-python-basics/undated-22.3-primes",
+    "date": null,
+    "date_note": "שנה לא ידועה: 22.3",
+    "topic_he": "מספרים ראשוניים",
+    "topic_en": "Prime Numbers",
+    "concepts": [
+      "bool",
+      "return",
+      "for"
+    ],
+    "files": [
+      "01-python-basics/undated-22.3-primes/???.py"
+    ],
+    "evidence": "פונקציה לבדיקת ראשוניות",
+    "gap": "ערכי קצה: מספר שלילי, 0 ו־1",
+    "next_step": "שיפור טווח הבדיקה והסברו",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L10",
+    "folder": "01-python-basics/undated-25.2-functions-game",
+    "date": null,
+    "date_note": "לא ידוע (25.2 ללא שנה)",
+    "topic_he": "פונקציות ומשחק מסוף",
+    "topic_en": "Functions and CLI Game",
+    "concepts": [
+      "def",
+      "input",
+      "random"
+    ],
+    "files": [
+      "01-python-basics/undated-25.2-functions-game/def 5.py"
+    ],
+    "evidence": "משחק אבן נייר ומספריים במסוף",
+    "gap": "תלות בפונקציות קלט ותרחישי קצה",
+    "next_step": "בדיקת פונקציות המשחק בלי קלט ידני",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L11",
+    "folder": "01-python-basics/undated-25.3-function-exercises",
+    "date": null,
+    "date_note": "שנה לא ידועה: 25.3",
+    "topic_he": "תרגילי פונקציות",
+    "topic_en": "Function Exercises",
+    "concepts": [
+      "strings",
+      "dict",
+      "validation",
+      "exceptions"
+    ],
+    "files": [
+      "01-python-basics/undated-25.3-function-exercises/???.py",
+      "01-python-basics/undated-25.3-function-exercises/???2.py",
+      "01-python-basics/undated-25.3-function-exercises/???3.py",
+      "01-python-basics/undated-25.3-function-exercises/???4.py",
+      "01-python-basics/undated-25.3-function-exercises/???5.py",
+      "01-python-basics/undated-25.3-function-exercises/???6.py",
+      "01-python-basics/undated-25.3-function-exercises/???7.py"
+    ],
+    "evidence": "המרת שמות, שכיחויות, דוא״ל ושברים",
+    "gap": "תקינות קלט והבחנה בין תשובה נכונה להסבר",
+    "next_step": "תרגול מחדש ללא פתרון פתוח",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L12",
+    "folder": "01-python-basics/undated-4.2-strings-conditions",
+    "date": null,
+    "date_note": "שנה לא ידועה: 4.2",
+    "topic_he": "מחרוזות ותנאים",
+    "topic_en": "Strings and Conditions",
+    "concepts": [
+      "str",
+      "bool",
+      "f-string",
+      "match"
+    ],
+    "files": [
+      "01-python-basics/undated-4.2-strings-conditions/.upper.py",
+      "01-python-basics/undated-4.2-strings-conditions/bool.py",
+      "01-python-basics/undated-4.2-strings-conditions/f''.py",
+      "01-python-basics/undated-4.2-strings-conditions/match.py",
+      "01-python-basics/undated-4.2-strings-conditions/string.py"
+    ],
+    "evidence": "מחרוזות, קלט ותנאים",
+    "gap": "טיפוסים והמרות קלט; פרטים אישיים נשארו מקומיים",
+    "next_step": "בדיקת קלט וטיפול בשגיאות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L13",
+    "folder": "01-python-basics/undated-8.2-lists-loops",
+    "date": null,
+    "date_note": "שנה לא ידועה: 8.2",
+    "topic_he": "רשימות ולולאות",
+    "topic_en": "Lists and Loops",
+    "concepts": [
+      "list",
+      "slice",
+      "for",
+      "while"
+    ],
+    "files": [
+      "01-python-basics/undated-8.2-lists-loops/jyf.py",
+      "01-python-basics/undated-8.2-lists-loops/list 2.py",
+      "01-python-basics/undated-8.2-lists-loops/list.py",
+      "01-python-basics/undated-8.2-lists-loops/polidrom.py"
+    ],
+    "evidence": "חיתוך רשימה, פלינדרום ומשחק Hangman",
+    "gap": "שינוי רשימה בזמן מעבר עליה",
+    "next_step": "list comprehensions",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L14",
+    "folder": "01-python-basics/undated-8.3-common-interests",
+    "date": null,
+    "date_note": "שנה לא ידועה: 8.3",
+    "topic_he": "תחומי עניין משותפים",
+    "topic_en": "Common Interests",
+    "concepts": [
+      "intersection",
+      "tuple",
+      "sorted"
+    ],
+    "files": [
+      "01-python-basics/undated-8.3-common-interests/the social bridge.py"
+    ],
+    "evidence": "פונקציה שמחזירה חיתוך ומספר פריטים",
+    "gap": "להסביר ערך החזרה וטיפוסו",
+    "next_step": "בדיקת מקרי קצה",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L15",
+    "folder": "02-sql-databases/undated-10.5-one-to-one",
+    "date": null,
+    "date_note": "שנה לא ידועה: 10.5",
+    "topic_he": "קשר אחד לאחד",
+    "topic_en": "One-to-One Relationship",
+    "concepts": [
+      "UNIQUE",
+      "FOREIGN KEY",
+      "LEFT JOIN"
+    ],
+    "files": [
+      "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1.sql",
+      "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1_+.sql"
+    ],
+    "evidence": "טבלאות עם מפתח זר ייחודי",
+    "gap": "INSERT כפול נכשל על UNIQUE; להבין מדוע",
+    "next_step": "מחיקה וקשרים עם foreign_keys מופעל",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L16",
+    "folder": "02-sql-databases/undated-15.4-tables",
+    "date": null,
+    "date_note": "שנה לא ידועה: 15.4",
+    "topic_he": "טבלאות ותנאים",
+    "topic_en": "Tables and Conditions",
+    "concepts": [
+      "CREATE TABLE",
+      "INSERT",
+      "SELECT",
+      "WHERE"
+    ],
+    "files": [
+      "02-sql-databases/undated-15.4-tables/Exercise.sql",
+      "02-sql-databases/undated-15.4-tables/ekom_database_session.sql",
+      "02-sql-databases/undated-15.4-tables/exercise_2.sql"
+    ],
+    "evidence": "טבלאות ציונים וקריאות תמיכה",
+    "gap": "מפתחות ראשיים וערכים חסרים",
+    "next_step": "אילוצים וקשרים בין טבלאות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L17",
+    "folder": "02-sql-databases/undated-19.4-query-practice",
+    "date": null,
+    "date_note": "שנה לא ידועה: 19.4",
+    "topic_he": "תרגול שאילתות",
+    "topic_en": "Query Practice",
+    "concepts": [
+      "SELECT",
+      "DISTINCT",
+      "WHERE"
+    ],
+    "files": [
+      "02-sql-databases/undated-19.4-query-practice/ Exercise",
+      "02-sql-databases/undated-19.4-query-practice/Netflix_Practice_Lab.sql",
+      "02-sql-databases/undated-19.4-query-practice/ecercise_2",
+      "02-sql-databases/undated-19.4-query-practice/exercise_3"
+    ],
+    "evidence": "שאילתות על טבלאות פרויקטים ומוצרים",
+    "gap": "Netflix תלוי בטבלה שאינה קיימת במאגר",
+    "next_step": "טעינת dataset למסד ניסוי",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L18",
+    "folder": "02-sql-databases/undated-27.5-restaurant-profit",
+    "date": null,
+    "date_note": "שנה לא ידועה: 27.5",
+    "topic_he": "ניתוח רווחים ב־SQL",
+    "topic_en": "SQL Profit Analysis",
+    "concepts": [
+      "JOIN",
+      "SUM",
+      "GROUP BY"
+    ],
+    "files": [
+      "02-sql-databases/undated-27.5-restaurant-profit/ Restaurant _Profit_Mystery.sql",
+      "02-sql-databases/undated-27.5-restaurant-profit/test.sql"
+    ],
+    "evidence": "תרגול הכנסות והוצאות של מסעדות",
+    "gap": "בדיקת סכומים לאחר JOIN",
+    "next_step": "למנוע ספירה כפולה בחיבור כמה טבלאות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L19",
+    "folder": "02-sql-databases/undated-29.4-aggregation",
+    "date": null,
+    "date_note": "שנה לא ידועה: 29.4",
+    "topic_he": "צבירה וקיבוץ",
+    "topic_en": "Aggregation and Grouping",
+    "concepts": [
+      "SUM",
+      "AVG",
+      "GROUP BY",
+      "HAVING"
+    ],
+    "files": [
+      "02-sql-databases/undated-29.4-aggregation/Exercise_01.sql",
+      "02-sql-databases/undated-29.4-aggregation/Exercise_02.sql",
+      "02-sql-databases/undated-29.4-aggregation/Exercise_03.sql",
+      "02-sql-databases/undated-29.4-aggregation/Exercise_04.sql"
+    ],
+    "evidence": "ניתוח מכירות ותרגילי קיבוץ",
+    "gap": "Exercise_04 מסתיים ב־SELECT לא גמור",
+    "next_step": "הבדל בין WHERE ל־HAVING",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L20",
+    "folder": "02-sql-databases/undated-3.5-inner-join",
+    "date": null,
+    "date_note": "שנה לא ידועה: 3.5",
+    "topic_he": "חיבור טבלאות",
+    "topic_en": "Inner Join",
+    "concepts": [
+      "INNER JOIN",
+      "foreign key"
+    ],
+    "files": [
+      "02-sql-databases/undated-3.5-inner-join/exercise_01.sql",
+      "02-sql-databases/undated-3.5-inner-join/exercise_02.sql",
+      "02-sql-databases/undated-3.5-inner-join/inner_join"
+    ],
+    "evidence": "חיבור עובדים למחלקות ונהגים למכוניות",
+    "gap": "איזה שורות נעלמות ב־INNER JOIN",
+    "next_step": "LEFT JOIN והשוואת תוצאות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L21",
+    "folder": "02-sql-databases/undated-6.5-cross-join",
+    "date": null,
+    "date_note": "שנה לא ידועה: 6.5",
+    "topic_he": "מכפלה בין טבלאות",
+    "topic_en": "Cross Join",
+    "concepts": [
+      "CROSS JOIN",
+      "COUNT",
+      "GROUP BY"
+    ],
+    "files": [
+      "02-sql-databases/undated-6.5-cross-join/Exercise_cross_join"
+    ],
+    "evidence": "צירופי מאפים ותוספות וחישובי משמרות",
+    "gap": "לחשב מראש את מספר השורות במכפלה",
+    "next_step": "להבחין בין CROSS JOIN לחיבור עם ON",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L22",
+    "folder": "02-sql-databases/undated-sql-session",
+    "date": null,
+    "date_note": "לא ידוע",
+    "topic_he": "טיוטת SQL",
+    "topic_en": "SQL Session Draft",
+    "concepts": [],
+    "files": [
+      "02-sql-databases/undated-sql-session/ekom_database.session.sql"
+    ],
+    "evidence": "קובץ session ריק",
+    "gap": "אין עדות לתרגול בקובץ",
+    "next_step": "לשמור שאילתות עם שם נושא",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L23",
+    "folder": "03-data-analysis/undated-10.6-numpy",
+    "date": null,
+    "date_note": "שנה לא ידועה: 10.6",
+    "topic_he": "מערכי NumPy",
+    "topic_en": "NumPy Arrays",
+    "concepts": [
+      "ndarray",
+      "shape",
+      "random"
+    ],
+    "files": [
+      "03-data-analysis/undated-10.6-numpy/numpy",
+      "03-data-analysis/undated-10.6-numpy/numpy_1"
+    ],
+    "evidence": "יצירת מערכים מספריים",
+    "gap": "shape, צירים והבדל בין list ל־ndarray",
+    "next_step": "broadcasting ופעולות וקטוריות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L24",
+    "folder": "03-data-analysis/undated-pandas-churn",
+    "date": null,
+    "date_note": "לא ידוע",
+    "topic_he": "ניתוח נתונים ב־Pandas",
+    "topic_en": "Pandas Data Analysis",
+    "concepts": [
+      "DataFrame",
+      "sort_values",
+      "groupby",
+      "dropna",
+      "fillna"
+    ],
+    "files": [
+      "03-data-analysis/undated-pandas-churn/Untitled.ipynb"
+    ],
+    "evidence": "מחברת מיון, קיבוץ וניקוי נתונים",
+    "gap": "התא הראשון משתמש ב־df לפני הגדרתו; נתונים מקומיים בלבד",
+    "next_step": "Restart & Run All בסדר תאים נכון",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L25",
+    "folder": "04-machine-learning/2026-07-15-polynomial-regression",
+    "date": "2026-07-15",
+    "date_note": "2026-07-15 (שמות מחברות)",
+    "topic_he": "רגרסיה ליניארית ופולינומית",
+    "topic_en": "Linear and Polynomial Regression",
+    "concepts": [
+      "LinearRegression",
+      "PolynomialFeatures",
+      "train_test_split"
+    ],
+    "files": [
+      "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+      "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+      "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+      "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py"
+    ],
+    "evidence": "קוד ומחברות התאמת עקומות",
+    "gap": "overfitting והפרדה בין אימון לבדיקה",
+    "next_step": "cross-validation",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L26",
+    "folder": "04-machine-learning/date-unverified-2.9.27-dbscan",
+    "date": null,
+    "date_note": "דורש אימות: 2.9.27",
+    "topic_he": "אשכולות לפי צפיפות",
+    "topic_en": "DBSCAN",
+    "concepts": [
+      "eps",
+      "min_samples",
+      "noise"
+    ],
+    "files": [
+      "04-machine-learning/date-unverified-2.9.27-dbscan/README.md",
+      "04-machine-learning/date-unverified-2.9.27-dbscan/cluster_circles.csv",
+      "04-machine-learning/date-unverified-2.9.27-dbscan/cluster_moons.csv",
+      "04-machine-learning/date-unverified-2.9.27-dbscan/requirements.txt",
+      "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py"
+    ],
+    "evidence": "הקוד טוען CSV; האלגוריתם מיובא אך טרם מופעל",
+    "gap": "אין עדיין fit ל־DBSCAN בקוד",
+    "next_step": "להפעיל DBSCAN ולהסביר נקודות רעש",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L27",
+    "folder": "04-machine-learning/date-unverified-6.8.27-regression",
+    "date": null,
+    "date_note": "דורש אימות: 6.8.27",
+    "topic_he": "רגרסיה וסיווג",
+    "topic_en": "Regression and Classification",
+    "concepts": [
+      "LinearRegression",
+      "LogisticRegression",
+      "predict_proba"
+    ],
+    "files": [
+      "04-machine-learning/date-unverified-6.8.27-regression/tigul",
+      "04-machine-learning/date-unverified-6.8.27-regression/tirgul_02",
+      "04-machine-learning/date-unverified-6.8.27-regression/tirgul_03"
+    ],
+    "evidence": "שלושה תרגילי רגרסיה וסיווג",
+    "gap": "מדוע LogisticRegression הוא מודל סיווג",
+    "next_step": "מדדי סיווג ובחירת סף",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L28",
+    "folder": "04-machine-learning/date-unverified-9.9.27-knn",
+    "date": null,
+    "date_note": "דורש אימות: 9.9.27",
+    "topic_he": "שכנים קרובים ונרמול",
+    "topic_en": "KNN and Scaling",
+    "concepts": [
+      "KNeighborsClassifier",
+      "MinMaxScaler",
+      "distance"
+    ],
+    "files": [
+      "04-machine-learning/date-unverified-9.9.27-knn/README.md",
+      "04-machine-learning/date-unverified-9.9.27-knn/tirgul_00.py"
+    ],
+    "evidence": "קוד סיווג לפני ואחרי נרמול",
+    "gap": "להסביר שינוי תחזית והשפעת טווחי משתנים",
+    "next_step": "תרגיל נוסף ללא הסתכלות בפתרון",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L29",
+    "folder": "04-machine-learning/undated-12.7-r2",
+    "date": null,
+    "date_note": "שנה לא ידועה: 12.7",
+    "topic_he": "מדד R²",
+    "topic_en": "R-squared",
+    "concepts": [
+      "SST",
+      "SSE",
+      "r2_score"
+    ],
+    "files": [
+      "04-machine-learning/undated-12.7-r2/R2.py"
+    ],
+    "evidence": "חישוב מדד ידני וב־sklearn",
+    "gap": "מה מודד R² ומתי הוא יכול להיות שלילי",
+    "next_step": "השוואה ל־MSE ו־RMSE",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L30",
+    "folder": "04-machine-learning/undated-23.8-kmeans-images",
+    "date": null,
+    "date_note": "שנה לא ידועה: 23.8",
+    "topic_he": "אשכולות ותמונות",
+    "topic_en": "KMeans and Images",
+    "concepts": [
+      "KMeans",
+      "pixels",
+      "PIL"
+    ],
+    "files": [
+      "04-machine-learning/undated-23.8-kmeans-images/bank-full.csv",
+      "04-machine-learning/undated-23.8-kmeans-images/dog_image.jpeg",
+      "04-machine-learning/undated-23.8-kmeans-images/movie_scores.csv",
+      "04-machine-learning/undated-23.8-kmeans-images/tigul"
+    ],
+    "evidence": "כימות צבעים בתמונה",
+    "gap": "המרת תמונה למטריצת פיקסלים; מקור נתונים לא מתועד",
+    "next_step": "בחירת k ומדדי אשכולות",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L31",
+    "folder": "04-machine-learning/undated-8.7-regression-mse",
+    "date": null,
+    "date_note": "שנה לא ידועה: 8.7",
+    "topic_he": "רגרסיה ו־MSE",
+    "topic_en": "Regression and MSE",
+    "concepts": [
+      "features",
+      "labels",
+      "prediction",
+      "MSE"
+    ],
+    "files": [
+      "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+      "04-machine-learning/undated-8.7-regression-mse/Untitled1.ipynb"
+    ],
+    "evidence": "מחברת חישובים ושרטוט קו",
+    "gap": "ייבוא mataplotlib שגוי ופלט שהודבק כתא קוד",
+    "next_step": "חישוב MSE ידני והשוואה לספרייה",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L32",
+    "folder": "05-oop/2026-10-25-point",
+    "date": "2026-10-25",
+    "date_note": "2026-10-25 (שם תיקייה)",
+    "topic_he": "מחלקת נקודה",
+    "topic_en": "Point Class",
+    "concepts": [
+      "class",
+      "self",
+      "__init__",
+      "@property"
+    ],
+    "files": [
+      "05-oop/2026-10-25-point/poing.py"
+    ],
+    "evidence": "קיימת מחלקת Point עם אתחול ושני properties",
+    "gap": "לא ידוע אם נכתב או הוסבר באופן עצמאי",
+    "next_step": "להוסיף property ולהסביר self",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L33",
+    "folder": "05-oop/2026-10-28-vehicle-exercise",
+    "date": "2026-10-28",
+    "date_note": "2026-10-28 (שם תיקייה)",
+    "topic_he": "תרגיל רכב",
+    "topic_en": "Vehicle Exercise",
+    "concepts": [
+      "class",
+      "inheritance",
+      "super",
+      "override",
+      "classmethod"
+    ],
+    "files": [
+      "05-oop/2026-10-28-vehicle-exercise/VehicleExercise.py"
+    ],
+    "evidence": "הקובץ נמצא ונשמר, אך הוא ריק (0 בתים)",
+    "gap": "אין מימוש שממנו ניתן להסיק תרגול או הבנה",
+    "next_step": "לממש את נוסח התרגיל כשתהיה שאלה מלאה",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L34",
+    "folder": "06-deep-learning/date-unverified-16.9.27-dense-regression",
+    "date": null,
+    "date_note": "דורש אימות: 16.9.27",
+    "topic_he": "רשת עצבית לרגרסיה",
+    "topic_en": "Dense Neural Regression",
+    "concepts": [
+      "Dense",
+      "Sequential",
+      "StandardScaler",
+      "Adam"
+    ],
+    "files": [
+      "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul"
+    ],
+    "evidence": "קיים קוד ANN עם אימון ותחזית",
+    "gap": "הקשר בין נרמול, loss, weights ו־epochs",
+    "next_step": "CNN ועיבוד תמונה; אין כרגע מימוש CNN במאגר",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L35",
+    "folder": "experiments/macos-speech",
+    "date": null,
+    "date_note": "שנה לא ידועה: just_tests",
+    "topic_he": "דיבור ב־macOS",
+    "topic_en": "macOS Speech",
+    "concepts": [
+      "subprocess",
+      "argv",
+      "stdin"
+    ],
+    "files": [
+      "experiments/macos-speech/speak.py"
+    ],
+    "evidence": "כלי CLI שעוטף את say",
+    "gap": "תלות במערכת הפעלה וטיפול בכישלון תהליך",
+    "next_step": "הפרדת לוגיקה מממשק CLI",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L36",
+    "folder": "experiments/unclassified",
+    "date": null,
+    "date_note": "לא ידוע",
+    "topic_he": "טיוטות ללא סיווג",
+    "topic_en": "Unclassified Drafts",
+    "concepts": [],
+    "files": [
+      "experiments/unclassified/Untitled1.ipynb",
+      "experiments/unclassified/untitled.txt"
+    ],
+    "evidence": "מחברת וקובץ טקסט ריקים",
+    "gap": "אין נושא או תאריך ידועים",
+    "next_step": "למלא נושא לפני הוספת חומר",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L37",
+    "folder": "projects/bank-simulator/undated-25.2",
+    "date": null,
+    "date_note": "לא ידוע (25.2 ללא שנה)",
+    "topic_he": "סימולטור בנק",
+    "topic_en": "Bank Simulator",
+    "concepts": [
+      "functions",
+      "state",
+      "validation"
+    ],
+    "files": [
+      "projects/bank-simulator/undated-25.2/def 6.py"
+    ],
+    "evidence": "מימוש תפריטי מסוף והעברת יתרות",
+    "gap": "בדיקות מקרי קצה; סיסמאות בקוד הן דוגמאות",
+    "next_step": "המרת המודל למחלקות OOP",
+    "progress": "התקדמות אינה ידועה"
+  },
+  {
+    "id": "L38",
+    "folder": "projects/rock-paper-scissors/undated-25.2",
+    "date": null,
+    "date_note": "לא ידוע (25.2 ללא שנה)",
+    "topic_he": "משחק Pygame",
+    "topic_en": "Pygame Game",
+    "concepts": [
+      "event loop",
+      "pygame",
+      "assets"
+    ],
+    "files": [
+      "projects/rock-paper-scissors/undated-25.2/paper_1.png",
+      "projects/rock-paper-scissors/undated-25.2/py_game.py",
+      "projects/rock-paper-scissors/undated-25.2/rock_1.png",
+      "projects/rock-paper-scissors/undated-25.2/scissors_1.png"
+    ],
+    "evidence": "משחק גרפי עם תמונות ואירועים",
+    "gap": "להסביר לולאת אירועים וטעינת נכסים",
+    "next_step": "ארגון המשחק למחלקות קטנות",
+    "progress": "התקדמות אינה ידועה"
+  }
+]

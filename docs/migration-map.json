@@ -1,0 +1,884 @@
+[
+  {
+    "old_path": "Untitled1.ipynb",
+    "new_path": "experiments/unclassified/Untitled1.ipynb",
+    "sha256_before": "45b613a4d08fbc6054302883b6fcd95b1641c3ec2164c742bf094fcfa41ebe6c",
+    "sha256_after": "45b613a4d08fbc6054302883b6fcd95b1641c3ec2164c742bf094fcfa41ebe6c",
+    "path_edit": false
+  },
+  {
+    "old_path": ".DS_Store",
+    "new_path": ".DS_Store",
+    "sha256_before": "6704a851f399032f2704e1695697dbf9a951775bd6baa1d6ea506d2f9fe72b4d",
+    "sha256_after": "6704a851f399032f2704e1695697dbf9a951775bd6baa1d6ea506d2f9fe72b4d",
+    "path_edit": false
+  },
+  {
+    "old_path": "ekom_database.session.sql",
+    "new_path": "02-sql-databases/undated-sql-session/ekom_database.session.sql",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": "Untitled.ipynb",
+    "new_path": "03-data-analysis/undated-pandas-churn/Untitled.ipynb",
+    "sha256_before": "2ea4ad05136110559a408663c94e188000ec2cd844784c17d1182143e7a5bb32",
+    "sha256_after": "c6e0b6ad801151d47c313182d8b7c49e7c5da729e6a4dd8eece054f3eceaa5aa",
+    "path_edit": true
+  },
+  {
+    "old_path": "Churn_Modelling.csv",
+    "new_path": "datasets/local-only/Churn_Modelling.csv",
+    "sha256_before": "ee2a5c9d8daf3aed0d91c4d883a84ebb77d271447bebc0f0c80aafb0f288ceab",
+    "sha256_after": "ee2a5c9d8daf3aed0d91c4d883a84ebb77d271447bebc0f0c80aafb0f288ceab",
+    "path_edit": false
+  },
+  {
+    "old_path": "untitled.txt",
+    "new_path": "experiments/unclassified/untitled.txt",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": ".gitignore",
+    "new_path": ".gitignore",
+    "sha256_before": "117b37be44a4534d43d1d9d4f92f01bc9b9167689ec177482f76958293078324",
+    "sha256_after": "c9453b185092ea4b4d66ae0fb947f31f1ae030cf7b01f2d066800e9544a37d4e",
+    "path_edit": true
+  },
+  {
+    "old_path": "ekom_database.db",
+    "new_path": "ekom_database.db",
+    "sha256_before": "ff3f187e9696e52ef87eab7f56ecf6a8132b84ce06183800ae6cd316298e1899",
+    "sha256_after": "ff3f187e9696e52ef87eab7f56ecf6a8132b84ce06183800ae6cd316298e1899",
+    "path_edit": false
+  },
+  {
+    "old_path": "29.4/Exercise_02.sql",
+    "new_path": "02-sql-databases/undated-29.4-aggregation/Exercise_02.sql",
+    "sha256_before": "d8a72db48664980bcc48f5e223ca45fdfc36abd0ecd41ba31dea34b6de14a062",
+    "sha256_after": "d8a72db48664980bcc48f5e223ca45fdfc36abd0ecd41ba31dea34b6de14a062",
+    "path_edit": false
+  },
+  {
+    "old_path": "29.4/Exercise_03.sql",
+    "new_path": "02-sql-databases/undated-29.4-aggregation/Exercise_03.sql",
+    "sha256_before": "a77e73895858172858bca3ecef8f37508f9ffa8c2f198e209d202c45cdfefab2",
+    "sha256_after": "a77e73895858172858bca3ecef8f37508f9ffa8c2f198e209d202c45cdfefab2",
+    "path_edit": false
+  },
+  {
+    "old_path": "29.4/Exercise_01.sql",
+    "new_path": "02-sql-databases/undated-29.4-aggregation/Exercise_01.sql",
+    "sha256_before": "14529e9b7dfdc0444fd3000e56ace43640d0eba259a03748da1cdb26074aac35",
+    "sha256_after": "14529e9b7dfdc0444fd3000e56ace43640d0eba259a03748da1cdb26074aac35",
+    "path_edit": false
+  },
+  {
+    "old_path": "29.4/Exercise_04.sql",
+    "new_path": "02-sql-databases/undated-29.4-aggregation/Exercise_04.sql",
+    "sha256_before": "2e5aa074cf94a4c7941bcd42a3856472637fcedf6c07a390005c6fd98d55b550",
+    "sha256_after": "2e5aa074cf94a4c7941bcd42a3856472637fcedf6c07a390005c6fd98d55b550",
+    "path_edit": false
+  },
+  {
+    "old_path": "27.5/test.sql",
+    "new_path": "02-sql-databases/undated-27.5-restaurant-profit/test.sql",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": "27.5/ Restaurant _Profit_Mystery.sql",
+    "new_path": "02-sql-databases/undated-27.5-restaurant-profit/ Restaurant _Profit_Mystery.sql",
+    "sha256_before": "fca9ef754f30384761887970d2459d5956e38b27c64fbab6d8eb3cbec5a89b76",
+    "sha256_after": "fca9ef754f30384761887970d2459d5956e38b27c64fbab6d8eb3cbec5a89b76",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.2/set() q1.py",
+    "new_path": "01-python-basics/undated-18.2-set-operations/set() q1.py",
+    "sha256_before": "fef2f4397426000ee6c6f0a42230e72bb8716b2ca153dcdc3cc13d42799e21cb",
+    "sha256_after": "fef2f4397426000ee6c6f0a42230e72bb8716b2ca153dcdc3cc13d42799e21cb",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.2/set() languages.py",
+    "new_path": "01-python-basics/undated-18.2-set-operations/set() languages.py",
+    "sha256_before": "9c0fcd6b0f92f893db36633bf36d4f03e2b9e2d28eb2df2d15705681ff5b9156",
+    "sha256_after": "9c0fcd6b0f92f893db36633bf36d4f03e2b9e2d28eb2df2d15705681ff5b9156",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.2/set() actors.py",
+    "new_path": "01-python-basics/undated-18.2-set-operations/set() actors.py",
+    "sha256_before": "8df314ac6b04796e0c70ebf3f8a7aa98e144c7c67a4bc8044bd0a833067bb643",
+    "sha256_after": "8df314ac6b04796e0c70ebf3f8a7aa98e144c7c67a4bc8044bd0a833067bb643",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.2/set () q2.py",
+    "new_path": "01-python-basics/undated-18.2-set-operations/set () q2.py",
+    "sha256_before": "0ade820d4f84f701bf39293b664e2e8bf06545990aa0ad65c81786f613fbd20a",
+    "sha256_after": "0ade820d4f84f701bf39293b664e2e8bf06545990aa0ad65c81786f613fbd20a",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.2/set () q3.py",
+    "new_path": "01-python-basics/undated-18.2-set-operations/set () q3.py",
+    "sha256_before": "b7d704e05484166dab580f1df646b3f2c2a27debefe7c1103a72118e5b7fab9f",
+    "sha256_after": "b7d704e05484166dab580f1df646b3f2c2a27debefe7c1103a72118e5b7fab9f",
+    "path_edit": false
+  },
+  {
+    "old_path": "10.6/numpy_1",
+    "new_path": "03-data-analysis/undated-10.6-numpy/numpy_1",
+    "sha256_before": "c0e9a0cb1de0bfbbc06bd43ae2953d170293f13a57ca35d83b9b8313248a24f0",
+    "sha256_after": "c0e9a0cb1de0bfbbc06bd43ae2953d170293f13a57ca35d83b9b8313248a24f0",
+    "path_edit": false
+  },
+  {
+    "old_path": "10.6/numpy",
+    "new_path": "03-data-analysis/undated-10.6-numpy/numpy",
+    "sha256_before": "c83c06178d23dd9d319446da3bc6451935c14238d980ea67df87a94b6a4bb045",
+    "sha256_after": "c83c06178d23dd9d319446da3bc6451935c14238d980ea67df87a94b6a4bb045",
+    "path_edit": false
+  },
+  {
+    "old_path": "9.9.27/README.md",
+    "new_path": "04-machine-learning/date-unverified-9.9.27-knn/README.md",
+    "sha256_before": "0fcbd376555d9abf5cc910a6263a36c2ad362c09616f8d47046477fd889f9ef4",
+    "sha256_after": "d8518b0f08f0483ca6aefc55c678abb9d080c12f5c9d3fd011c7d5039d6a170a",
+    "path_edit": true
+  },
+  {
+    "old_path": "9.9.27/tirgul_00.py",
+    "new_path": "04-machine-learning/date-unverified-9.9.27-knn/tirgul_00.py",
+    "sha256_before": "ed683aef0f0c869406ade9f2296da677658f89460b2a578e009ff2731c825757",
+    "sha256_after": "ed683aef0f0c869406ade9f2296da677658f89460b2a578e009ff2731c825757",
+    "path_edit": false
+  },
+  {
+    "old_path": "3.5/inner_join",
+    "new_path": "02-sql-databases/undated-3.5-inner-join/inner_join",
+    "sha256_before": "825e210265b7c9754c4bb6cc8d127b6511f614190ae22622ab1c57c9636d97e3",
+    "sha256_after": "825e210265b7c9754c4bb6cc8d127b6511f614190ae22622ab1c57c9636d97e3",
+    "path_edit": false
+  },
+  {
+    "old_path": "3.5/exercise_02.sql",
+    "new_path": "02-sql-databases/undated-3.5-inner-join/exercise_02.sql",
+    "sha256_before": "c6633b56d13354c72654d790d813e220d5a0200045a418ff994a419667c9a911",
+    "sha256_after": "c6633b56d13354c72654d790d813e220d5a0200045a418ff994a419667c9a911",
+    "path_edit": false
+  },
+  {
+    "old_path": "3.5/exercise_01.sql",
+    "new_path": "02-sql-databases/undated-3.5-inner-join/exercise_01.sql",
+    "sha256_before": "6a3fb145488adae482f976f737a01ac0d7205db21a6ce7284034580c2a96f4e1",
+    "sha256_after": "6a3fb145488adae482f976f737a01ac0d7205db21a6ce7284034580c2a96f4e1",
+    "path_edit": false
+  },
+  {
+    "old_path": "2.9.27/tirgul_DBSCAN.py",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+    "sha256_before": "8ee204ca3da11496a8e9e95702a7ac19d14c113ea678afe003f1889f8364363e",
+    "sha256_after": "8ee204ca3da11496a8e9e95702a7ac19d14c113ea678afe003f1889f8364363e",
+    "path_edit": false
+  },
+  {
+    "old_path": "2.9.27/requirements.txt",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/requirements.txt",
+    "sha256_before": "23527a83c61ab477d31abf918adf23f4010bd8d83af074eee445ed2916433a0e",
+    "sha256_after": "23527a83c61ab477d31abf918adf23f4010bd8d83af074eee445ed2916433a0e",
+    "path_edit": false
+  },
+  {
+    "old_path": "2.9.27/README.md",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/README.md",
+    "sha256_before": "0e51aa2aeefcb623d1b1fcbf9b274bdef2f13ebe85d39c9d04f6515813a4238b",
+    "sha256_after": "1cd623e2916b2aa4cfb72a7466999955d3fcb3f7c66b5bc67d7eaadf2aea89ef",
+    "path_edit": true
+  },
+  {
+    "old_path": "2.9.27/.gitignore",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/.gitignore",
+    "sha256_before": "1abc3ff2f99a13f754f55c649d808253dced1f528833fae0e40b6dfd0c04fd9a",
+    "sha256_after": "1abc3ff2f99a13f754f55c649d808253dced1f528833fae0e40b6dfd0c04fd9a",
+    "path_edit": false
+  },
+  {
+    "old_path": "2.9.27/cluster_moons.csv",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/cluster_moons.csv",
+    "sha256_before": "283fa500a97657b0d9724baeb117fa89d4eb2db9f1fb8737496d999fd4c52464",
+    "sha256_after": "283fa500a97657b0d9724baeb117fa89d4eb2db9f1fb8737496d999fd4c52464",
+    "path_edit": false
+  },
+  {
+    "old_path": "2.9.27/cluster_circles.csv",
+    "new_path": "04-machine-learning/date-unverified-2.9.27-dbscan/cluster_circles.csv",
+    "sha256_before": "b6b24fb3ae12e02c9231e5e28bf4f84960bf0d49f2b5dfe4ade9f16a08933983",
+    "sha256_after": "b6b24fb3ae12e02c9231e5e28bf4f84960bf0d49f2b5dfe4ade9f16a08933983",
+    "path_edit": false
+  },
+  {
+    "old_path": "28.10.26/VehicleExercise.py",
+    "new_path": "05-oop/2026-10-28-vehicle-exercise/VehicleExercise.py",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.4/ekom_database_session.sql",
+    "new_path": "02-sql-databases/undated-15.4-tables/ekom_database_session.sql",
+    "sha256_before": "e49ff9ec3015c1221a43ef355a9abd66840967dc1b19ef443694ae89a9d476a5",
+    "sha256_after": "e49ff9ec3015c1221a43ef355a9abd66840967dc1b19ef443694ae89a9d476a5",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.4/Exercise.sql",
+    "new_path": "02-sql-databases/undated-15.4-tables/Exercise.sql",
+    "sha256_before": "e49ff9ec3015c1221a43ef355a9abd66840967dc1b19ef443694ae89a9d476a5",
+    "sha256_after": "e49ff9ec3015c1221a43ef355a9abd66840967dc1b19ef443694ae89a9d476a5",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.4/exercise_2.sql",
+    "new_path": "02-sql-databases/undated-15.4-tables/exercise_2.sql",
+    "sha256_before": "a1f53c302e1c11d763b32db6c65e62cf338d336827ce05ee9e489212702a9eb4",
+    "sha256_after": "a1f53c302e1c11d763b32db6c65e62cf338d336827ce05ee9e489212702a9eb4",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.3/LOVA.py",
+    "new_path": "01-python-basics/undated-15.3-functions-collections/LOVA.py",
+    "sha256_before": "37d88283453ba4934b26ec91aba87a8a2476403299e2e4f9bcc13ff965a540f1",
+    "sha256_after": "37d88283453ba4934b26ec91aba87a8a2476403299e2e4f9bcc13ff965a540f1",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.7/Untitled1.ipynb",
+    "new_path": "04-machine-learning/undated-8.7-regression-mse/Untitled1.ipynb",
+    "sha256_before": "1322a435527fc00bdd21acb0b6e800b71db1b1307508b82263e6e4f970fbe1f7",
+    "sha256_after": "1322a435527fc00bdd21acb0b6e800b71db1b1307508b82263e6e4f970fbe1f7",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.7/Untitled.ipynb",
+    "new_path": "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "sha256_before": "6066b0a37bf3f34c7ae817191270be9752b991c02ddb9503911867ac365da835",
+    "sha256_after": "6066b0a37bf3f34c7ae817191270be9752b991c02ddb9503911867ac365da835",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.7/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+    "new_path": "04-machine-learning/undated-8.7-regression-mse/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+    "sha256_before": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sha256_after": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.7/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+    "new_path": "04-machine-learning/undated-8.7-regression-mse/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+    "sha256_before": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sha256_after": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/tirgol.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/tirgol.py",
+    "sha256_before": "4b488c89a1f798699765ffb95b2121ada1a63ece118dc7ffeb5cac489e1ed6bf",
+    "sha256_after": "4b488c89a1f798699765ffb95b2121ada1a63ece118dc7ffeb5cac489e1ed6bf",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/list q.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/list q.py",
+    "sha256_before": "b37006dc2fc29c93bfb976ebf284cc662b7de940a11ce77006e442edc7f10cfd",
+    "sha256_after": "b37006dc2fc29c93bfb976ebf284cc662b7de940a11ce77006e442edc7f10cfd",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/any_list.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/any_list.py",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/list_all_any.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/list_all_any.py",
+    "sha256_before": "ea43c2d83abaf52243fbf88e925bd33880acfd0df033dbc882b905938ad0e7b2",
+    "sha256_after": "ea43c2d83abaf52243fbf88e925bd33880acfd0df033dbc882b905938ad0e7b2",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/tigol2.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/tigol2.py",
+    "sha256_before": "9ddb1ddff3940bde796bc8b5a33009333550ff87cd24f35ca03908bc35fc0e7e",
+    "sha256_after": "9ddb1ddff3940bde796bc8b5a33009333550ff87cd24f35ca03908bc35fc0e7e",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/del/list.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/del/list.py",
+    "sha256_before": "aa91acb6feaf1c90b5d68277a5343f3ec5919fe08a4a610f9a358e94c99e34f8",
+    "sha256_after": "aa91acb6feaf1c90b5d68277a5343f3ec5919fe08a4a610f9a358e94c99e34f8",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.2/del/any_list_2.py",
+    "new_path": "01-python-basics/undated-11.2-lists-any-all/del/any_list_2.py",
+    "sha256_before": "12419194f2bd1c09978176a9003fcc75ad903bbf62841934824ebb42600e02aa",
+    "sha256_after": "12419194f2bd1c09978176a9003fcc75ad903bbf62841934824ebb42600e02aa",
+    "path_edit": false
+  },
+  {
+    "old_path": "4.2/bool.py",
+    "new_path": "01-python-basics/undated-4.2-strings-conditions/bool.py",
+    "sha256_before": "0d3b0f0a149630c915f976c0ec24f33bd86dc9b5fc060b7c03ca0f20456a2e13",
+    "sha256_after": "0d3b0f0a149630c915f976c0ec24f33bd86dc9b5fc060b7c03ca0f20456a2e13",
+    "path_edit": false
+  },
+  {
+    "old_path": "4.2/string.py",
+    "new_path": "01-python-basics/undated-4.2-strings-conditions/string.py",
+    "sha256_before": "08c54b9acbceedc0a258d57f571aa480923d08d583b350e770ed9460f3472570",
+    "sha256_after": "08c54b9acbceedc0a258d57f571aa480923d08d583b350e770ed9460f3472570",
+    "path_edit": false
+  },
+  {
+    "old_path": "4.2/f''.py",
+    "new_path": "01-python-basics/undated-4.2-strings-conditions/f''.py",
+    "sha256_before": "dc553bc7bc97cb1e728f450637164fb818517d31b867b2ef9693fb42510dff39",
+    "sha256_after": "dc553bc7bc97cb1e728f450637164fb818517d31b867b2ef9693fb42510dff39",
+    "path_edit": false
+  },
+  {
+    "old_path": "4.2/.upper.py",
+    "new_path": "01-python-basics/undated-4.2-strings-conditions/.upper.py",
+    "sha256_before": "091380965af559a8da31c6feaa0fdf065d22e9546fbd11545374338b054eca1a",
+    "sha256_after": "091380965af559a8da31c6feaa0fdf065d22e9546fbd11545374338b054eca1a",
+    "path_edit": false
+  },
+  {
+    "old_path": "4.2/match.py",
+    "new_path": "01-python-basics/undated-4.2-strings-conditions/match.py",
+    "sha256_before": "5a2230e73e11a34c0a486b383db39382d2f6f95935ca345b66b8a2ef408ef008",
+    "sha256_after": "5a2230e73e11a34c0a486b383db39382d2f6f95935ca345b66b8a2ef408ef008",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.2/.set() q b.py",
+    "new_path": "01-python-basics/undated-15.2-sets/.set() q b.py",
+    "sha256_before": "c60e8a70d4d6e1c6dc90a02ff417ca044cb60dd30d4ac89e05a35311bc6b0324",
+    "sha256_after": "c60e8a70d4d6e1c6dc90a02ff417ca044cb60dd30d4ac89e05a35311bc6b0324",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.2/.set().py",
+    "new_path": "01-python-basics/undated-15.2-sets/.set().py",
+    "sha256_before": "4294c81ffafbe58e40cc06f0447adadbf72f99eb62492c47002b999f7e3e251b",
+    "sha256_after": "4294c81ffafbe58e40cc06f0447adadbf72f99eb62492c47002b999f7e3e251b",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.2/set() q2.py",
+    "new_path": "01-python-basics/undated-15.2-sets/set() q2.py",
+    "sha256_before": "9f3e706a6ef97e7bbded95d4ff8ae6d83d5516346fbf02d6ea1b4c34760d3eb4",
+    "sha256_after": "9f3e706a6ef97e7bbded95d4ff8ae6d83d5516346fbf02d6ea1b4c34760d3eb4",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.3/dict().py",
+    "new_path": "01-python-basics/undated-11.3-dictionaries/dict().py",
+    "sha256_before": "4bbae576a4b3d1be70ea174aea6f0aafb835d0087a1c270800c19af3af93c4ac",
+    "sha256_after": "4bbae576a4b3d1be70ea174aea6f0aafb835d0087a1c270800c19af3af93c4ac",
+    "path_edit": false
+  },
+  {
+    "old_path": "11.3/dict() 2.py",
+    "new_path": "01-python-basics/undated-11.3-dictionaries/dict() 2.py",
+    "sha256_before": "ccea72b495ce76619e6dba6e5ee0f52d28b5385f1a1952aef6fcf1983707ef50",
+    "sha256_after": "ccea72b495ce76619e6dba6e5ee0f52d28b5385f1a1952aef6fcf1983707ef50",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???5.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???5.py",
+    "sha256_before": "3a9cd864ad49edaa5f94827964ec1c9350b1a05fa3e8302e6ec02727b420058a",
+    "sha256_after": "3a9cd864ad49edaa5f94827964ec1c9350b1a05fa3e8302e6ec02727b420058a",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???4.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???4.py",
+    "sha256_before": "184e0d62b5b1396052f2c6b440f599dc4be039764842ccd08c93c630ea048db9",
+    "sha256_after": "184e0d62b5b1396052f2c6b440f599dc4be039764842ccd08c93c630ea048db9",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???7.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???7.py",
+    "sha256_before": "9b79dcd80c6cf1a6cdfce78310c8fd51bbaef29dbf55c691d33124c2d1fe1092",
+    "sha256_after": "9b79dcd80c6cf1a6cdfce78310c8fd51bbaef29dbf55c691d33124c2d1fe1092",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???3.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???3.py",
+    "sha256_before": "bfc12beb436d02a63290920d9bf3a1b45f8d235975066340ec831fa58a7e89f5",
+    "sha256_after": "bfc12beb436d02a63290920d9bf3a1b45f8d235975066340ec831fa58a7e89f5",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???2.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???2.py",
+    "sha256_before": "ea1be70c021fd1fda44ac63391db4d0197872620d0659ddd40b56c523c275ee3",
+    "sha256_after": "ea1be70c021fd1fda44ac63391db4d0197872620d0659ddd40b56c523c275ee3",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???6.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???6.py",
+    "sha256_before": "fb7af6530953ef133fc7b3d734d4e6f86ffe262f22a5d307d2f443df12f6c4a6",
+    "sha256_after": "fb7af6530953ef133fc7b3d734d4e6f86ffe262f22a5d307d2f443df12f6c4a6",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.3/???.py",
+    "new_path": "01-python-basics/undated-25.3-function-exercises/???.py",
+    "sha256_before": "31bd48d8c3eacf9fac709ceb5b3b3b5ea2fa1ea28a212cb824bb6d599d39bfa3",
+    "sha256_after": "31bd48d8c3eacf9fac709ceb5b3b3b5ea2fa1ea28a212cb824bb6d599d39bfa3",
+    "path_edit": false
+  },
+  {
+    "old_path": "23.8/tigul",
+    "new_path": "04-machine-learning/undated-23.8-kmeans-images/tigul",
+    "sha256_before": "4df8e5071ffe272d2489b8091ad2ea2e93d1f1ba86c1183ff3fc64ba84eed0a0",
+    "sha256_after": "82aebb9b8ec681e1bf93c157e20addb70c59739f8e2eaa553477920f4964c6cc",
+    "path_edit": true
+  },
+  {
+    "old_path": "23.8/bank-full.csv",
+    "new_path": "04-machine-learning/undated-23.8-kmeans-images/bank-full.csv",
+    "sha256_before": "f4db69d3f21d34fd0cad9aabea880ddd7df99df1f58baa388a644ef26cee0686",
+    "sha256_after": "f4db69d3f21d34fd0cad9aabea880ddd7df99df1f58baa388a644ef26cee0686",
+    "path_edit": false
+  },
+  {
+    "old_path": "23.8/dog_image.jpeg",
+    "new_path": "04-machine-learning/undated-23.8-kmeans-images/dog_image.jpeg",
+    "sha256_before": "82211554c87278623b78a741db0137e91a717fff2822798457bc0e86d45f5016",
+    "sha256_after": "82211554c87278623b78a741db0137e91a717fff2822798457bc0e86d45f5016",
+    "path_edit": false
+  },
+  {
+    "old_path": "23.8/movie_scores.csv",
+    "new_path": "04-machine-learning/undated-23.8-kmeans-images/movie_scores.csv",
+    "sha256_before": "fa7adcb1efc5faf6afda295eb39bd56a01e12e4b798066023a83ed53ab4537be",
+    "sha256_after": "fa7adcb1efc5faf6afda295eb39bd56a01e12e4b798066023a83ed53ab4537be",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/def 5.py",
+    "new_path": "01-python-basics/undated-25.2-functions-game/def 5.py",
+    "sha256_before": "2e1ea8f288d1b7748149e5198e982af965663cee6ed755857419ae6bff2a56f0",
+    "sha256_after": "2e1ea8f288d1b7748149e5198e982af965663cee6ed755857419ae6bff2a56f0",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/rock_1.png",
+    "new_path": "projects/rock-paper-scissors/undated-25.2/rock_1.png",
+    "sha256_before": "ecbb45f56a4fb6f8ec3ad36cd617510b721a8ed61b9a8fdc321d27427818a55f",
+    "sha256_after": "ecbb45f56a4fb6f8ec3ad36cd617510b721a8ed61b9a8fdc321d27427818a55f",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/paper_1.png",
+    "new_path": "projects/rock-paper-scissors/undated-25.2/paper_1.png",
+    "sha256_before": "93b13ada8f6929d8b156eef6994fc406ec68307789e7ad644edb7e946c12da77",
+    "sha256_after": "93b13ada8f6929d8b156eef6994fc406ec68307789e7ad644edb7e946c12da77",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/scissors_1.png",
+    "new_path": "projects/rock-paper-scissors/undated-25.2/scissors_1.png",
+    "sha256_before": "d99d75a7aeb22f467c827e7bdcdebe9a0ee41cfa22cfce5764ab835ac39f9f3c",
+    "sha256_after": "d99d75a7aeb22f467c827e7bdcdebe9a0ee41cfa22cfce5764ab835ac39f9f3c",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/def 6.py",
+    "new_path": "projects/bank-simulator/undated-25.2/def 6.py",
+    "sha256_before": "e8a4c8b48cc731d87613bb49784f3168ed14dd64a4bad16eb820707283ca63ef",
+    "sha256_after": "e8a4c8b48cc731d87613bb49784f3168ed14dd64a4bad16eb820707283ca63ef",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.2/py_game.py",
+    "new_path": "projects/rock-paper-scissors/undated-25.2/py_game.py",
+    "sha256_before": "bc1e435e9ad7758b99f9d38e030d38616791c417691738487722266b3b26d9fe",
+    "sha256_after": "18b2508cec25c0b320a0f0f169ca78a705c1735f74108fd35244ebdcf064b811",
+    "path_edit": true
+  },
+  {
+    "old_path": "18.3./01_tirgul.py",
+    "new_path": "01-python-basics/undated-18.3-functions-loops/01_tirgul.py",
+    "sha256_before": "8f6a40d3ebf4a318957eb7cd32e5bc86b10a67cf82a51726ef4639e4d93bb812",
+    "sha256_after": "8f6a40d3ebf4a318957eb7cd32e5bc86b10a67cf82a51726ef4639e4d93bb812",
+    "path_edit": false
+  },
+  {
+    "old_path": "18.3./tirgul.py",
+    "new_path": "01-python-basics/undated-18.3-functions-loops/tirgul.py",
+    "sha256_before": "615f92055e87ff6783f0da433e96f0dae6d8530895193897d277011d5e8fc32a",
+    "sha256_after": "615f92055e87ff6783f0da433e96f0dae6d8530895193897d277011d5e8fc32a",
+    "path_edit": false
+  },
+  {
+    "old_path": "10.5/one_to_one_1:1_+.sql",
+    "new_path": "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1_+.sql",
+    "sha256_before": "1fb2358df607f0b370a995584538f538a52030802fbe1f73ecf3b1288acbeaa3",
+    "sha256_after": "1fb2358df607f0b370a995584538f538a52030802fbe1f73ecf3b1288acbeaa3",
+    "path_edit": false
+  },
+  {
+    "old_path": "10.5/one_to_one_1:1.sql",
+    "new_path": "02-sql-databases/undated-10.5-one-to-one/one_to_one_1:1.sql",
+    "sha256_before": "ad4e9c67c598db82f1628d4bd918f613ff899ea1ea0c8fdab7ab4f9a1c627903",
+    "sha256_after": "ad4e9c67c598db82f1628d4bd918f613ff899ea1ea0c8fdab7ab4f9a1c627903",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/rock.paper.si.py",
+    "new_path": "01-python-basics/undated-1.2-random/rock.paper.si.py",
+    "sha256_before": "0a0c6411c88622e056f873e3e241051aa8622ce5ad3f16a4ba82371abbf421f4",
+    "sha256_after": "0a0c6411c88622e056f873e3e241051aa8622ce5ad3f16a4ba82371abbf421f4",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random?.py",
+    "new_path": "01-python-basics/undated-1.2-random/random?.py",
+    "sha256_before": "fb524f40d19b6060100534acf89e611406ea5c2d4d4d97a064112326ef7cec4b",
+    "sha256_after": "fb524f40d19b6060100534acf89e611406ea5c2d4d4d97a064112326ef7cec4b",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q6.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q6.py",
+    "sha256_before": "2b3eff5d35bead63997574b2a8c438ad8553cc9ce4db92a1733e3fa16ec909f4",
+    "sha256_after": "2b3eff5d35bead63997574b2a8c438ad8553cc9ce4db92a1733e3fa16ec909f4",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q2.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q2.py",
+    "sha256_before": "1b425b832389fdafad4b9a5a76c994b01d2ea98ee01bd4b4dfa82c1cf2a98a2e",
+    "sha256_after": "1b425b832389fdafad4b9a5a76c994b01d2ea98ee01bd4b4dfa82c1cf2a98a2e",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q3.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q3.py",
+    "sha256_before": "8d29541bcc793b82d389c1d5e665b812fe7d02fe683c1f192b485eaca2576196",
+    "sha256_after": "8d29541bcc793b82d389c1d5e665b812fe7d02fe683c1f192b485eaca2576196",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q7.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q7.py",
+    "sha256_before": "28a3093d9bac7da1fe9e9419d56fce4cfcd13d48865d34cd7f626be04ec1ee02",
+    "sha256_after": "28a3093d9bac7da1fe9e9419d56fce4cfcd13d48865d34cd7f626be04ec1ee02",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/luck.number.py",
+    "new_path": "01-python-basics/undated-1.2-random/luck.number.py",
+    "sha256_before": "ac733bf413853afa935cee1d03ce7557bbe7e4f01473ecd5eebb8c75c2fc4a44",
+    "sha256_after": "ac733bf413853afa935cee1d03ce7557bbe7e4f01473ecd5eebb8c75c2fc4a44",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q4.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q4.py",
+    "sha256_before": "e2bbfc8149dbb52e8528290010a0c73e7d674128c4939eae1a902b73a6d1cce9",
+    "sha256_after": "e2bbfc8149dbb52e8528290010a0c73e7d674128c4939eae1a902b73a6d1cce9",
+    "path_edit": false
+  },
+  {
+    "old_path": "1.2/random.q5.py",
+    "new_path": "01-python-basics/undated-1.2-random/random.q5.py",
+    "sha256_before": "7f177242cbeeb37748c28382e02d3c719bfc25991c546ba3a15d85827fac35a3",
+    "sha256_after": "7f177242cbeeb37748c28382e02d3c719bfc25991c546ba3a15d85827fac35a3",
+    "path_edit": false
+  },
+  {
+    "old_path": "just_tests/speak.py",
+    "new_path": "experiments/macos-speech/speak.py",
+    "sha256_before": "2c7cfbde399189e29b76c0a7c58cf887a465de9fdecfac51072e3402eba18c2c",
+    "sha256_after": "2c7cfbde399189e29b76c0a7c58cf887a465de9fdecfac51072e3402eba18c2c",
+    "path_edit": false
+  },
+  {
+    "old_path": "12.7/R2.py",
+    "new_path": "04-machine-learning/undated-12.7-r2/R2.py",
+    "sha256_before": "251bc8961c7b277d1959c9edff0c0c55a5a1f73e5a4adb077cbd45995e7a93d2",
+    "sha256_after": "251bc8961c7b277d1959c9edff0c0c55a5a1f73e5a4adb077cbd45995e7a93d2",
+    "path_edit": false
+  },
+  {
+    "old_path": "22.2/def2.py",
+    "new_path": "01-python-basics/undated-22.2-functions/def2.py",
+    "sha256_before": "5ef948d181fa97d8722f9dcd3f29d8f1cff63115b4ba1e93097cff8b8d79a3ea",
+    "sha256_after": "5ef948d181fa97d8722f9dcd3f29d8f1cff63115b4ba1e93097cff8b8d79a3ea",
+    "path_edit": false
+  },
+  {
+    "old_path": "22.2/def.py",
+    "new_path": "01-python-basics/undated-22.2-functions/def.py",
+    "sha256_before": "297ca944fe6e59ea8af49e33a3934858df3710ddc1599be0bc1330d7aaef8f07",
+    "sha256_after": "297ca944fe6e59ea8af49e33a3934858df3710ddc1599be0bc1330d7aaef8f07",
+    "path_edit": false
+  },
+  {
+    "old_path": "22.2/def3.py",
+    "new_path": "01-python-basics/undated-22.2-functions/def3.py",
+    "sha256_before": "9d8a89b4f564374855f0e4628e8307ee2215c18bb15a1f03875324f8fc19f386",
+    "sha256_after": "9d8a89b4f564374855f0e4628e8307ee2215c18bb15a1f03875324f8fc19f386",
+    "path_edit": false
+  },
+  {
+    "old_path": "22.2/def4.py",
+    "new_path": "01-python-basics/undated-22.2-functions/def4.py",
+    "sha256_before": "837e2e45d342c8f88ae5aeb410b1acff260425111506c540c7893d5185b8039b",
+    "sha256_after": "837e2e45d342c8f88ae5aeb410b1acff260425111506c540c7893d5185b8039b",
+    "path_edit": false
+  },
+  {
+    "old_path": ".ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+    "new_path": ".ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+    "sha256_before": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sha256_after": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "path_edit": false
+  },
+  {
+    "old_path": ".ipynb_checkpoints/Untitled-checkpoint.ipynb",
+    "new_path": ".ipynb_checkpoints/Untitled-checkpoint.ipynb",
+    "sha256_before": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sha256_after": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "path_edit": false
+  },
+  {
+    "old_path": ".ipynb_checkpoints/untitled-checkpoint.txt",
+    "new_path": ".ipynb_checkpoints/untitled-checkpoint.txt",
+    "sha256_before": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_after": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path_edit": false
+  },
+  {
+    "old_path": "22.3/???.py",
+    "new_path": "01-python-basics/undated-22.3-primes/???.py",
+    "sha256_before": "c3f1099c8f4d5e110ce162686ed02c76d608c91997342be0d84ea45490dbbf6d",
+    "sha256_after": "c3f1099c8f4d5e110ce162686ed02c76d608c91997342be0d84ea45490dbbf6d",
+    "path_edit": false
+  },
+  {
+    "old_path": ".vscode/settings.json",
+    "new_path": ".vscode/settings.json",
+    "sha256_before": "8b2e1b0dee52c56148a6e9509fd795a00c416e315dccffcb5328e45862477aa8",
+    "sha256_after": "8b2e1b0dee52c56148a6e9509fd795a00c416e315dccffcb5328e45862477aa8",
+    "path_edit": false
+  },
+  {
+    "old_path": "16.9.27/tirgul",
+    "new_path": "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul",
+    "sha256_before": "cb24ccae6452f09e0ca0f678907957ab119f01b0b1e1456fd66b51747d61a830",
+    "sha256_after": "cb24ccae6452f09e0ca0f678907957ab119f01b0b1e1456fd66b51747d61a830",
+    "path_edit": false
+  },
+  {
+    "old_path": "6.8.27/tigul",
+    "new_path": "04-machine-learning/date-unverified-6.8.27-regression/tigul",
+    "sha256_before": "ce745065babc3ea6be9d5acca08f48c7561b758f861bd5d6ac876e9db3fd1aa9",
+    "sha256_after": "ce745065babc3ea6be9d5acca08f48c7561b758f861bd5d6ac876e9db3fd1aa9",
+    "path_edit": false
+  },
+  {
+    "old_path": "6.8.27/tirgul_02",
+    "new_path": "04-machine-learning/date-unverified-6.8.27-regression/tirgul_02",
+    "sha256_before": "99a78fd97a89d778822ca126fe3517adbef6fba9e5e810d32e943d519d3eec9e",
+    "sha256_after": "99a78fd97a89d778822ca126fe3517adbef6fba9e5e810d32e943d519d3eec9e",
+    "path_edit": false
+  },
+  {
+    "old_path": "6.8.27/tirgul_03",
+    "new_path": "04-machine-learning/date-unverified-6.8.27-regression/tirgul_03",
+    "sha256_before": "e011a9f43f4adf4a5324484923194eeafb9e3d55d3a58f217121d9d1f31ed367",
+    "sha256_after": "e011a9f43f4adf4a5324484923194eeafb9e3d55d3a58f217121d9d1f31ed367",
+    "path_edit": false
+  },
+  {
+    "old_path": "6.5/Exercise_cross_join",
+    "new_path": "02-sql-databases/undated-6.5-cross-join/Exercise_cross_join",
+    "sha256_before": "113f4ec6ff78618e6da67b3dcdf30a12787b8b07ff04abd407e2917bf00e9480",
+    "sha256_after": "113f4ec6ff78618e6da67b3dcdf30a12787b8b07ff04abd407e2917bf00e9480",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.3/the social bridge.py",
+    "new_path": "01-python-basics/undated-8.3-common-interests/the social bridge.py",
+    "sha256_before": "d75951ab1ffdf18f14223c23d482221fd28fa1d244ecee1fb98a8cdc1c16db20",
+    "sha256_after": "d75951ab1ffdf18f14223c23d482221fd28fa1d244ecee1fb98a8cdc1c16db20",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.7/.DS_Store",
+    "new_path": "04-machine-learning/2026-07-15-polynomial-regression/.DS_Store",
+    "sha256_before": "180d430911e4f91a7f857c6b17cbfab0b8b5610e6b95d526d9034b5cf580372c",
+    "sha256_after": "180d430911e4f91a7f857c6b17cbfab0b8b5610e6b95d526d9034b5cf580372c",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.7/poly1_15_07_2026.ipynb",
+    "new_path": "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "sha256_before": "c022c2b26fb0bd50c9798262b6619c1ca87ed81deb5853fb115abd037a940ee9",
+    "sha256_after": "c022c2b26fb0bd50c9798262b6619c1ca87ed81deb5853fb115abd037a940ee9",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.7/tirgul_2.py",
+    "new_path": "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py",
+    "sha256_before": "062b295c5d1c7b2560d65e7a0834a7a0f05b265e1a89f0a0dd64c32503af2f65",
+    "sha256_after": "062b295c5d1c7b2560d65e7a0834a7a0f05b265e1a89f0a0dd64c32503af2f65",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.7/linear4_15_07_2026.ipynb",
+    "new_path": "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "sha256_before": "6b570859e797f81b3a7f7136896bcae40ea3794d3b8b5155af6ea4eab0fb6c28",
+    "sha256_after": "6b570859e797f81b3a7f7136896bcae40ea3794d3b8b5155af6ea4eab0fb6c28",
+    "path_edit": false
+  },
+  {
+    "old_path": "15.7/tirgul.py",
+    "new_path": "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+    "sha256_before": "c623a7dab40ab6284857561b15928c96c67aae4c6cb9dff277c454dc1dc2eb1e",
+    "sha256_after": "c623a7dab40ab6284857561b15928c96c67aae4c6cb9dff277c454dc1dc2eb1e",
+    "path_edit": false
+  },
+  {
+    "old_path": "25.10.26/poing.py",
+    "new_path": "05-oop/2026-10-25-point/poing.py",
+    "sha256_before": "5021bc9029cc3a2698d97aa6abc77455cf0799887797a4e81ff073988580c83e",
+    "sha256_after": "5021bc9029cc3a2698d97aa6abc77455cf0799887797a4e81ff073988580c83e",
+    "path_edit": false
+  },
+  {
+    "old_path": "19.4/exercise_3",
+    "new_path": "02-sql-databases/undated-19.4-query-practice/exercise_3",
+    "sha256_before": "a935b8e5ce8c9033ac422b8c01ce806b420a18b3bfde4b0e063f8c17d388feef",
+    "sha256_after": "a935b8e5ce8c9033ac422b8c01ce806b420a18b3bfde4b0e063f8c17d388feef",
+    "path_edit": false
+  },
+  {
+    "old_path": "19.4/ecercise_2",
+    "new_path": "02-sql-databases/undated-19.4-query-practice/ecercise_2",
+    "sha256_before": "ca1d808f888ef32d56da85d959695e6f5e6f4fd3ace0cffd16dc41f9b6ff39d0",
+    "sha256_after": "ca1d808f888ef32d56da85d959695e6f5e6f4fd3ace0cffd16dc41f9b6ff39d0",
+    "path_edit": false
+  },
+  {
+    "old_path": "19.4/ Exercise",
+    "new_path": "02-sql-databases/undated-19.4-query-practice/ Exercise",
+    "sha256_before": "3c872a92758c9abf60d90445e3295dd0fd74ef7831e5087f87dac3047c727d0d",
+    "sha256_after": "3c872a92758c9abf60d90445e3295dd0fd74ef7831e5087f87dac3047c727d0d",
+    "path_edit": false
+  },
+  {
+    "old_path": "19.4/Netflix_Practice_Lab.sql",
+    "new_path": "02-sql-databases/undated-19.4-query-practice/Netflix_Practice_Lab.sql",
+    "sha256_before": "92af4153f30ab0cbea6525c7a422232f825455471e2461fac8f78dad73e1e153",
+    "sha256_after": "92af4153f30ab0cbea6525c7a422232f825455471e2461fac8f78dad73e1e153",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.2/list.py",
+    "new_path": "01-python-basics/undated-8.2-lists-loops/list.py",
+    "sha256_before": "dfeadd58d205e758e4bd01b32d5af3a088e583204b763b97bb2737fdd39e80e2",
+    "sha256_after": "dfeadd58d205e758e4bd01b32d5af3a088e583204b763b97bb2737fdd39e80e2",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.2/jyf.py",
+    "new_path": "01-python-basics/undated-8.2-lists-loops/jyf.py",
+    "sha256_before": "7eb749ebcb7696eb33c9b321364268ea6831e569f11b84bdd9a9697b524d03ee",
+    "sha256_after": "7eb749ebcb7696eb33c9b321364268ea6831e569f11b84bdd9a9697b524d03ee",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.2/polidrom.py",
+    "new_path": "01-python-basics/undated-8.2-lists-loops/polidrom.py",
+    "sha256_before": "7e4671e9208f370b5de10746d70869dace2d9edd309fe88a7972ca31753a352b",
+    "sha256_after": "7e4671e9208f370b5de10746d70869dace2d9edd309fe88a7972ca31753a352b",
+    "path_edit": false
+  },
+  {
+    "old_path": "8.2/list 2.py",
+    "new_path": "01-python-basics/undated-8.2-lists-loops/list 2.py",
+    "sha256_before": "cad2a10b02a5e23868cf72eac7147d9af8f832319f00f7eddf77bdb53ec76387",
+    "sha256_after": "cad2a10b02a5e23868cf72eac7147d9af8f832319f00f7eddf77bdb53ec76387",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/LOVA_M.iml",
+    "new_path": ".idea/LOVA_M.iml",
+    "sha256_before": "f0d818c95dc06e2d3eb7c9fe233fc380c14ae46148752c2e0b34aace2f0c892a",
+    "sha256_after": "f0d818c95dc06e2d3eb7c9fe233fc380c14ae46148752c2e0b34aace2f0c892a",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/vcs.xml",
+    "new_path": ".idea/vcs.xml",
+    "sha256_before": "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972",
+    "sha256_after": "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/workspace.xml",
+    "new_path": ".idea/workspace.xml",
+    "sha256_before": "2e80102b3d763b2e42c54505cc9332eef780ea1a3ab9062eab9b5486c7b85589",
+    "sha256_after": "2e80102b3d763b2e42c54505cc9332eef780ea1a3ab9062eab9b5486c7b85589",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/modules.xml",
+    "new_path": ".idea/modules.xml",
+    "sha256_before": "8ac152f05384b6756f904bd9d5a0216c41d49be1bb494e48e2e82fdb5716670c",
+    "sha256_after": "8ac152f05384b6756f904bd9d5a0216c41d49be1bb494e48e2e82fdb5716670c",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/misc.xml",
+    "new_path": ".idea/misc.xml",
+    "sha256_before": "d59e089b15b5ae3e4b0a4059c8aaaed91bb16e654454679860e90788c0a271fb",
+    "sha256_after": "d59e089b15b5ae3e4b0a4059c8aaaed91bb16e654454679860e90788c0a271fb",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/inspectionProfiles/profiles_settings.xml",
+    "new_path": ".idea/inspectionProfiles/profiles_settings.xml",
+    "sha256_before": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46",
+    "sha256_after": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46",
+    "path_edit": false
+  },
+  {
+    "old_path": ".idea/inspectionProfiles/Project_Default.xml",
+    "new_path": ".idea/inspectionProfiles/Project_Default.xml",
+    "sha256_before": "9bb48f9b8b45e65f0e8d83824a46e8fc7d0191987e99774ea983cc49fd8ce35a",
+    "sha256_after": "9bb48f9b8b45e65f0e8d83824a46e8fc7d0191987e99774ea983cc49fd8ce35a",
+    "path_edit": false
+  }
+]

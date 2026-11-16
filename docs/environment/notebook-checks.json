@@ -1,0 +1,17 @@
+[
+  {
+    "profile": "study",
+    "kernel": "lovam-study",
+    "status": "pass"
+  },
+  {
+    "profile": "tensorflow",
+    "kernel": "lovam-tensorflow",
+    "status": "pass"
+  },
+  {
+    "profile": "torch",
+    "kernel": "lovam-torch",
+    "status": "pass"
+  }
+]

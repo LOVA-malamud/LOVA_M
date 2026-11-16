@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "LOVA_M: run current Python file",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv-study/bin/python",
+      "args": [
+        "${file}"
+      ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "LOVA_M: environment tests",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv-study/bin/python",
+      "args": [
+        "-m",
+        "pytest",
+        "tests/environment"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}

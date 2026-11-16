@@ -1,40 +1,67 @@
-# Python, SQL & Data Science · Classwork
+<div dir="rtl">
 
-My course exercises from Python fundamentals through relational queries and regression. Original lesson dates, filenames, solutions and data are preserved.
+<div align="center">
 
-**Status:** learning archive with completed examples and unfinished experiments. This is not one installable application.
+![LOVA Learning Lab — ECOM](docs/assets/learning-lab.svg)
 
-[Browse by topic](TOPICS.md) · [Homework](https://github.com/LOVA-malamud/ekom_home_work) · [ML exam notes](https://github.com/LOVA-malamud/machine_learning_exam_b)
+# מחברת הלימודים של לוֹבה
 
-## Find a concept
+**ללמוד · לתרגל · לבנות**
 
-| Topic | Start here |
-| --- | --- |
-| Strings, branching and random values | [Fundamentals](TOPICS.md#python-fundamentals-and-control-flow) |
-| Lists, sets, dictionaries and grouping | [Data structures](TOPICS.md#lists-sets-and-dictionaries) |
-| Functions, validation and small algorithms | [Problem solving](TOPICS.md#functions-and-problem-solving) |
-| SQL filtering, aggregation, joins and relationships | [Relational data](TOPICS.md#sql-and-relational-data) |
-| Array indexing and tabular exploration | [NumPy and pandas](TOPICS.md#numpy-and-pandas) |
-| Linear/polynomial regression, MSE and R² | [Models and evaluation](TOPICS.md#regression-visualization-and-evaluation) |
+Python · SQL · Data · Machine Learning · OOP · Deep Learning · NLP
 
-## Use the exercises
+[מפת השיעורים](LESSONS_INDEX.md) · [התקדמות אישית](LEARNING_PROGRESS.md) · [הכנת סביבת עבודה](PYTHON_ENVIRONMENT.md)
 
-Use Python 3.12+ for the mixed classwork syntax. Most introductory scripts need only the standard library. From the repository root, this small example needs no input or third-party packages:
+</div>
+
+---
+
+## מתחילים מכאן
+
+| המטרה שלי | לאן נכנסים |
+|---|---|
+| לחזור לחומר האחרון שהועלה לענף זה | [מבוא ל־spaCy](07-nlp/2026-11-04-spacy-introduction/) · [8 תרגילי NLP](07-nlp/2026-11-04-spacy-introduction/homework/) |
+| לתרגל תכנות מונחה עצמים | [צורות ומחלקות מופשטות](05-oop/2026-11-01-shapes-abstract-classes/) · [מתג אור](05-oop/2026-11-01-light-switch/) |
+| למצוא שיעור ישן | [לפי נושא ותאריך](LESSONS_INDEX.md) |
+| להוסיף חומר חדש בלי ליצור בלגן | [מדריך הוספת שיעור](HOW_TO_ADD_A_LESSON.md) |
+
+## תחומי הלימוד
+
+| תחום | מה לומדים |
+|---|---|
+| **01 · [יסודות Python](01-python-basics/)** | תנאים, לולאות, אוספים ופונקציות |
+| **02 · [SQL ומסדי נתונים](02-sql-databases/)** | טבלאות, קשרים, JOIN וצבירה |
+| **03 · [ניתוח נתונים](03-data-analysis/)** | NumPy ו־Pandas |
+| **04 · [למידת מכונה](04-machine-learning/)** | רגרסיה, KNN, KMeans ו־DBSCAN |
+| **05 · [תכנות מונחה עצמים](05-oop/)** | מחלקות, ירושה, הפשטה ו־State Pattern |
+| **06 · [למידה עמוקה](06-deep-learning/)** | רשתות עצביות עם TensorFlow/Keras |
+| **07 · [עיבוד שפה טבעית](07-nlp/)** | spaCy, ישויות, חלקי דיבר וניתוח טקסט |
+
+## מעבר לשיעורים
+
+[פרויקטים](projects/README.md) · [ניסויים](experiments/README.md) · [נתונים](datasets/README.md) · [מדריכים ותיעוד](docs/README.md)
+
+**איך המאגר בנוי:** תחום ← שיעור ← קוד, תרגילים ו־README מקומי. דף הבית מכוון לתחומים; כל README מסביר את התיקייה שבה הוא נמצא. האינדקס המרכזי מאפשר חיפוש מפורט, ויומן ההתקדמות מתעד הבנה אישית בנפרד מקיום קוד.
+
+## הרצה ראשונה
+
+משורש המאגר, עם Python 3.10 ומעלה:
 
 ```bash
-python3 '22.2/def.py'
+python3 05-oop/2026-11-01-light-switch/main.py
 ```
 
-For other files, read the source and imports first. Data-science examples use NumPy, pandas, matplotlib, seaborn, scikit-learn and, in one notebook, dmba. Pygame is needed only for the graphical game. There is no shared pinned dependency environment; install only the chosen exercise's dependencies in a local virtual environment.
+התרגיל הזה משתמש רק בספרייה הסטנדרטית. תרגילים אחרים דורשים ספריות, נתונים או קלט: בדוק את ההוראות בתוך השיעור. [מדריך Python](PYTHON_ENVIRONMENT.md) · [מדריך VS Code](docs/vscode-guide.md).
 
-View notebooks on GitHub or open them with Jupyter. The root pandas notebook expects `Churn_Modelling.csv` in its working directory. Keep SQL work in a disposable copy of the study database. Some scripts prompt for input; the game uses files from its own dated folder.
+## מאגרי לימוד נוספים
 
-## What is preserved
+[שיעורי בית](https://github.com/LOVA-malamud/ekom_home_work) · [חומר למבחן ML](https://github.com/LOVA-malamud/machine_learning_exam_b)
 
-Date-named folders contain the original lessons; root notebooks and the CSV/SQLite files remain where they were. [TOPICS.md](TOPICS.md) adds navigation without moving sources. Hebrew comments and exercise instructions remain intact.
+## מה חשוב לדעת על החומר?
 
-## Checks and limitations
+- זהו מאגר לימודי: יש פתרונות, טיוטות, קבצים ריקים ותרגילים שעדיין דורשים תיקון. קוד קיים אינו הוכחה להבנה עצמאית.
+- קבצים שסומנו **מקומי בלבד** אינם כלולים ב־GitHub. תיקיית Pandas, למשל, מכילה כאן תיעוד ולא את המחברת עצמה.
+- תאריכים חסרים נשארים מסומנים, בלי להמציא שנה. קובץ Vehicle בענף זה עדיין ריק.
+- [דוח הסידור הנוכחי](docs/organization-2026-11-16.md) מסביר את ההעברות, פערי הענפים ותוצאות הבדיקה. [מפת המעבר הישנה](docs/migration-map.csv) נשמרת כתיעוד היסטורי.
 
-There is no repository-wide automated test suite. The documentation pass checks links and representative standard-library examples; it does not certify every answer. Empty placeholders and the unfinished plotting notebook are identified in the index. Dataset provenance and database contents have not been independently verified.
-
-On 2026-10-28, `22.2/def.py` ran successfully under Python 3.12.10 and printed `30` and `-2`.
+</div>

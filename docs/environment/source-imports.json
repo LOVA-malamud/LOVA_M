@@ -1,0 +1,142 @@
+{
+  "pandas": [
+    "03-data-analysis/undated-pandas-churn/Untitled.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py"
+  ],
+  "numpy": [
+    "03-data-analysis/undated-10.6-numpy/numpy_1",
+    "03-data-analysis/undated-10.6-numpy/numpy",
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+    "04-machine-learning/undated-12.7-r2/R2.py",
+    "04-machine-learning/date-unverified-9.9.27-knn/tirgul_00.py",
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "04-machine-learning/date-unverified-6.8.27-regression/tigul",
+    "04-machine-learning/date-unverified-6.8.27-regression/tirgul_02",
+    "04-machine-learning/date-unverified-6.8.27-regression/tirgul_03",
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+    "04-machine-learning/undated-23.8-kmeans-images/tigul",
+    "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul"
+  ],
+  "IPython": [
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb"
+  ],
+  "matplotlib": [
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+    "04-machine-learning/undated-23.8-kmeans-images/tigul"
+  ],
+  "seaborn": [
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py"
+  ],
+  "sklearn": [
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul_2.py",
+    "04-machine-learning/2026-07-15-polynomial-regression/linear4_15_07_2026.ipynb",
+    "04-machine-learning/2026-07-15-polynomial-regression/tirgul.py",
+    "04-machine-learning/undated-12.7-r2/R2.py",
+    "04-machine-learning/date-unverified-9.9.27-knn/tirgul_00.py",
+    "04-machine-learning/date-unverified-6.8.27-regression/tigul",
+    "04-machine-learning/date-unverified-6.8.27-regression/tirgul_02",
+    "04-machine-learning/date-unverified-6.8.27-regression/tirgul_03",
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+    "04-machine-learning/undated-23.8-kmeans-images/tigul",
+    "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul"
+  ],
+  "dmba": [
+    "04-machine-learning/2026-07-15-polynomial-regression/poly1_15_07_2026.ipynb"
+  ],
+  "mataplotlib": [
+    "04-machine-learning/undated-8.7-regression-mse/Untitled1.ipynb"
+  ],
+  "math": [
+    "04-machine-learning/undated-8.7-regression-mse/Untitled.ipynb",
+    "projects/rock-paper-scissors/undated-25.2/py_game.py"
+  ],
+  "pathlib": [
+    "04-machine-learning/date-unverified-2.9.27-dbscan/tirgul_DBSCAN.py",
+    "04-machine-learning/undated-23.8-kmeans-images/tigul",
+    "projects/rock-paper-scissors/undated-25.2/py_game.py",
+    "docs/tools/verify_repository.py"
+  ],
+  "PIL": [
+    "04-machine-learning/undated-23.8-kmeans-images/tigul"
+  ],
+  "sys": [
+    "experiments/macos-speech/speak.py",
+    "projects/rock-paper-scissors/undated-25.2/py_game.py",
+    "docs/tools/verify_repository.py"
+  ],
+  "subprocess": [
+    "experiments/macos-speech/speak.py"
+  ],
+  "shlex": [
+    "experiments/macos-speech/speak.py"
+  ],
+  "pygame": [
+    "projects/rock-paper-scissors/undated-25.2/py_game.py"
+  ],
+  "random": [
+    "projects/rock-paper-scissors/undated-25.2/py_game.py",
+    "01-python-basics/undated-22.2-functions/def4.py",
+    "01-python-basics/undated-11.2-lists-any-all/list q.py",
+    "01-python-basics/undated-11.2-lists-any-all/list_all_any.py",
+    "01-python-basics/undated-15.2-sets/.set() q b.py",
+    "01-python-basics/undated-8.2-lists-loops/jyf.py",
+    "01-python-basics/undated-25.3-function-exercises/???3.py",
+    "01-python-basics/undated-11.3-dictionaries/dict() 2.py",
+    "01-python-basics/undated-1.2-random/rock.paper.si.py",
+    "01-python-basics/undated-1.2-random/random?.py",
+    "01-python-basics/undated-1.2-random/random.q6.py",
+    "01-python-basics/undated-1.2-random/random.q2.py",
+    "01-python-basics/undated-1.2-random/random.q3.py",
+    "01-python-basics/undated-1.2-random/random.q7.py",
+    "01-python-basics/undated-1.2-random/luck.number.py",
+    "01-python-basics/undated-1.2-random/random.q4.py",
+    "01-python-basics/undated-1.2-random/random.q5.py",
+    "01-python-basics/undated-25.2-functions-game/def 5.py"
+  ],
+  "os": [
+    "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul",
+    "docs/tools/verify_repository.py"
+  ],
+  "tensorflow": [
+    "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul"
+  ],
+  "time": [
+    "06-deep-learning/date-unverified-16.9.27-dense-regression/tirgul",
+    "01-python-basics/undated-25.2-functions-game/def 5.py"
+  ],
+  "urllib": [
+    "docs/tools/verify_repository.py"
+  ],
+  "ast": [
+    "docs/tools/verify_repository.py"
+  ],
+  "hashlib": [
+    "docs/tools/verify_repository.py"
+  ],
+  "json": [
+    "docs/tools/verify_repository.py"
+  ],
+  "re": [
+    "docs/tools/verify_repository.py"
+  ],
+  "operator": [
+    "01-python-basics/undated-4.2-strings-conditions/string.py"
+  ]
+}

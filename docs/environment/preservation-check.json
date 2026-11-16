@@ -1,0 +1,14 @@
+{
+  "files": 174,
+  "missing": [],
+  "changed_learning_sources": [],
+  "intentional_config_and_docs": [
+    "README.md",
+    ".gitignore",
+    "docs/lesson-index.md",
+    "docs/running.md",
+    "docs/lesson-template.md",
+    "docs/tools/verify_repository.py",
+    ".vscode/settings.json"
+  ]
+}

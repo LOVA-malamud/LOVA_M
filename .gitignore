@@ -1,32 +1,110 @@
-# Local Python environments and generated caches
+# === PYTHON VIRTUAL ENVIRONMENTS ===
 .venv/
 venv/
+ENV/
+env/
+.env
+
+# === PYTHON CACHE ===
 __pycache__/
 *.py[cod]
-.pytest_cache/
-.ruff_cache/
-.coverage
-htmlcov/
-.ipynb_checkpoints/
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Local credentials; keep safe templates available
-.env
-.env.*
-!.env.example
-!.env.sample
-!.env.template
+# === IDE & EDITORS ===
+# Visual Studio Code
+.vscode/
+*.code-workspace
 
-# OS and personal editor state
-.DS_Store
-._*
+# PyCharm
 .idea/
 *.iml
-.vscode/*
-!.vscode/extensions.json
-!.vscode/tasks.json
-!.vscode/launch.json
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
 *.swp
 *.swo
+*~
 
-# Only disposable local outputs; coursework/data remain trackable
+# === DATABASE ===
+*.db
+*.sqlite
+*.sqlite3
+*.session.sql
+*.log
+
+# === OS FILES ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# === TESTING ===
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# === MISC ===
+.ipynb_checkpoints/
+.vscode-server/
+*.bak
+*.tmp
+*.temp
+.env.local
+.env.*.local
+
+# Additional local environments and secrets
+.venv-*/
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local-only originals: personal fields / unverified dataset provenance
+/01-python-basics/undated-4.2-strings-conditions/.upper.py
+/01-python-basics/undated-11.3-dictionaries/dict().py
+/04-machine-learning/undated-23.8-kmeans-images/movie_scores.csv
+/03-data-analysis/undated-pandas-churn/Untitled.ipynb
+/datasets/local-only/
+
+# Local smoke reports, kernel runtime files and quality caches
 .local/
+.ruff_cache/
+.jupyter/
+
+# Share only the portable workspace template, never local workspace state
+!docs/vscode/*.code-workspace
+
+# Regenerated spaCy homework dependency visualization (may contain user input)
+/07-nlp/exercise_08_visualization.html
+
+/07-nlp/2026-11-04-spacy-introduction/homework/exercise_08_visualization.html
+
+# Safe environment templates retained from main
+!.env.sample
+!.env.template
